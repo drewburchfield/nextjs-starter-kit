@@ -1,11 +1,17 @@
+"use client";  // Add this line at the top of the file
+
 import { ArrowRight, Github } from 'lucide-react';
 import Link from "next/link";
 import { BorderBeam } from "../magicui/border-beam";
 import { Button } from "../ui/button";
 import Image from 'next/image';
 import { TITLE_TAILWIND_CLASS } from '@/utils/constants';
+import { Skeleton } from "@/components/ui/skeleton";
+import { useState } from 'react';
 
 export default function HeroSection() {
+    const [imageLoaded, setImageLoaded] = useState(false);
+
     return (
         <section className='flex flex-col items-center justify-center leading-6 mt-[3rem]' aria-label="Nextjs Starter Kit Hero">
             <h1 className={`${TITLE_TAILWIND_CLASS} scroll-m-20 font-semibold tracking-tight text-center max-w-[1120px] bg-gradient-to-b dark:text-white`}>
@@ -44,6 +50,7 @@ export default function HeroSection() {
             <div>
                 <div className="relative flex max-w-6xl justify-center overflow-hidden mt-7">
                     <div className="relative rounded-xl">
+                        {!imageLoaded && <Skeleton className="w-full h-[550px] rounded-xl" />}
                         <Image
                             src="https://utfs.io/f/31dba2ff-6c3b-4927-99cd-b928eaa54d5f-5w20ij.png"
                             alt="Nextjs Starter Kit Dashboard Preview"
@@ -51,6 +58,7 @@ export default function HeroSection() {
                             height={550}
                             priority={true}
                             className="block rounded-[inherit] border object-contain shadow-lg dark:hidden"
+                            onLoad={() => setImageLoaded(true)}
                         />
                         <Image
                             src="https://utfs.io/f/69a12ab1-4d57-4913-90f9-38c6aca6c373-1txg2.png"

@@ -16,6 +16,7 @@ const NavigationMenu = React.forwardRef<
       className
     )}
     {...props}
+    aria-label="Main Navigation"
   >
     {children}
     <NavigationMenuViewport />

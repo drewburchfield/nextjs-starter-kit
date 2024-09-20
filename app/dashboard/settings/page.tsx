@@ -4,6 +4,26 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import config from '@/config';
 import { useState } from 'react';
+import { z } from "zod";
+
+// Define a schema for input validation
+const settingsSchema = z.object({
+  name: z.string().min(2, "Name must be at least 2 characters"),
+  email: z.string().email("Invalid email address"),
+});
+
+// Use the schema in your component
+const handleSubmit = (data: z.infer<typeof settingsSchema>) => {
+  try {
+    settingsSchema.parse(data);
+    // Proceed with form submission
+  } catch (error) {
+    if (error instanceof z.ZodError) {
+      // Handle validation errors
+      console.error(error.errors);
+    }
+  }
+};
 
 export default function Settings() {
   // Placeholder user data

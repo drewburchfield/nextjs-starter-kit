@@ -68,8 +68,8 @@
     "tailwindcss-animate": "^1.0.7",
     "xml2js": "^0.6.2",
     "zod": "^3.23.5",
-    "@clerk/nextjs": "^4.0.0", // Added
-    "stripe": "^8.0.0" // Added
+    "@clerk/nextjs": "^4.0.0",
+    "stripe": "^8.0.0"
   },
   "devDependencies": {
     "@types/node": "latest",

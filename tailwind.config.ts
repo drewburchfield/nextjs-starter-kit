@@ -68,6 +68,8 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        'southern-miss': '#FFAB00',
+        'miami-fl': '#F47321',
       },
       borderRadius: {
         lg: "var(--radius)",

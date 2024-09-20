@@ -1,8 +1,7 @@
-import {
-    Avatar,
-    AvatarFallback,
-    AvatarImage,
-} from "@/components/ui/avatar"
+"use client"
+
+import React from 'react'
+import { Button } from "@/components/ui/button"
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -10,61 +9,68 @@ import {
     DropdownMenuItem,
     DropdownMenuLabel,
     DropdownMenuSeparator,
-    DropdownMenuShortcut,
-    DropdownMenuTrigger
+    DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import config from "@/config"
-import { SignOutButton, useUser } from "@clerk/nextjs"
 import {
     CreditCard,
     LogOut,
     Settings,
-    User
+    User,
 } from "lucide-react"
-import Link from "next/link"
-import { useRouter } from "next/navigation"
 
 export function UserProfile() {
-    const router = useRouter()
-
-    if (!config?.auth?.enabled) {
-        router.back()
+    // This is a placeholder for user data
+    const user = {
+        firstName: 'John',
+        lastName: 'Doe',
+        imageUrl: 'https://example.com/placeholder.jpg'
     }
-    const { user } = useUser();
+
+    const handleSignOut = () => {
+        // Implement sign out logic here
+        console.log('User signed out')
+    }
+
     return (
         <DropdownMenu>
-            <DropdownMenuTrigger asChild className="w-[2.25rem] h-[2.25rem]">
-                <Avatar >
-                    <AvatarImage src={user?.imageUrl} alt="User Profile" />
-                    <AvatarFallback></AvatarFallback>
-                </Avatar>
+            <DropdownMenuTrigger asChild>
+                <Button variant="ghost" className="relative h-8 w-8 rounded-full">
+                    <img
+                        className="h-8 w-8 rounded-full object-cover"
+                        src={user.imageUrl}
+                        alt={`${user.firstName} ${user.lastName}`}
+                    />
+                </Button>
             </DropdownMenuTrigger>
-            <DropdownMenuContent className="w-56">
-                <DropdownMenuLabel>My Account</DropdownMenuLabel>
+            <DropdownMenuContent className="w-56" align="end" forceMount>
+                <DropdownMenuLabel className="font-normal">
+                    <div className="flex flex-col space-y-1">
+                        <p className="text-sm font-medium leading-none">{user.firstName} {user.lastName}</p>
+                        <p className="text-xs leading-none text-muted-foreground">
+                            example@email.com
+                        </p>
+                    </div>
+                </DropdownMenuLabel>
                 <DropdownMenuSeparator />
                 <DropdownMenuGroup>
-                    <Link href="/user-profile">
-                        <DropdownMenuItem>
-                            <User className="mr-2 h-4 w-4" />
-                            <span>Profile</span>
-                            <DropdownMenuShortcut>⇧⌘P</DropdownMenuShortcut>
-                        </DropdownMenuItem>
-                    </Link>
-                    <Link href="/dashboard/settings">
-                        <DropdownMenuItem>
-                            <Settings className="mr-2 h-4 w-4" />
-                            <span>Settings</span>
-                            <DropdownMenuShortcut>⌘S</DropdownMenuShortcut>
-                        </DropdownMenuItem>
-                    </Link>
-                </DropdownMenuGroup>
-                <SignOutButton>
                     <DropdownMenuItem>
-                        <LogOut className="mr-2 h-4 w-4" />
-                        <span>Log out</span>
-                        <DropdownMenuShortcut>⇧⌘Q</DropdownMenuShortcut>
+                        <User className="mr-2 h-4 w-4" />
+                        <span>Profile</span>
                     </DropdownMenuItem>
-                </SignOutButton>
+                    <DropdownMenuItem>
+                        <CreditCard className="mr-2 h-4 w-4" />
+                        <span>Billing</span>
+                    </DropdownMenuItem>
+                    <DropdownMenuItem>
+                        <Settings className="mr-2 h-4 w-4" />
+                        <span>Settings</span>
+                    </DropdownMenuItem>
+                </DropdownMenuGroup>
+                <DropdownMenuSeparator />
+                <DropdownMenuItem onClick={handleSignOut}>
+                    <LogOut className="mr-2 h-4 w-4" />
+                    <span>Log out</span>
+                </DropdownMenuItem>
             </DropdownMenuContent>
         </DropdownMenu>
     )

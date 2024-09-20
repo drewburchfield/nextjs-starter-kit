@@ -4,21 +4,16 @@ import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { CheckCircle2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import React, { useEffect, useState } from "react"
+import React, { useState } from "react"
 import { cn } from "@/lib/utils"
-import { useUser } from "@clerk/nextjs"
-import axios from "axios"
-import { loadStripe } from "@stripe/stripe-js"
 import { toast } from "sonner"
 import { TITLE_TAILWIND_CLASS } from "@/utils/constants"
-import { useRouter } from "next/navigation"
 
 type PricingSwitchProps = {
   onSwitch: (value: string) => void
 }
 
 type PricingCardProps = {
-  user: any
   handleCheckout: any
   priceIdMonthly: any
   priceIdYearly: any
@@ -58,8 +53,7 @@ const PricingSwitch = ({ onSwitch }: PricingSwitchProps) => (
   </Tabs>
 )
 
-const PricingCard = ({ user, handleCheckout, isYearly, title, priceIdMonthly, priceIdYearly, monthlyPrice, yearlyPrice, description, features, actionLabel, popular, exclusive }: PricingCardProps) => {
-  const router = useRouter();
+const PricingCard = ({ handleCheckout, isYearly, title, priceIdMonthly, priceIdYearly, monthlyPrice, yearlyPrice, description, features, actionLabel, popular, exclusive }: PricingCardProps) => {
   return (
     <Card
       className={cn(`w-72 flex flex-col justify-between py-1 ${popular ? "border-rose-400" : "border-zinc-700"} mx-auto sm:mx-0`, {
@@ -96,19 +90,7 @@ const PricingCard = ({ user, handleCheckout, isYearly, title, priceIdMonthly, pr
       <CardFooter className="mt-2">
         <Button
           onClick={() => {
-            if (user?.id) {
-              handleCheckout(isYearly ? priceIdYearly : priceIdMonthly, true)
-            } else {
-              toast("Please login or sign up to purchase", {
-                description: "You must be logged in to make a purchase",
-                action: {
-                  label: "Sign Up",
-                  onClick: () => {
-                    router.push("/sign-up")
-                  },
-                },
-              })
-            }
+            handleCheckout(isYearly ? priceIdYearly : priceIdMonthly, true)
           }}
           className="relative inline-flex w-full items-center justify-center rounded-md bg-black text-white dark:bg-white px-6 font-medium dark:text-black transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50"
           type="button"
@@ -131,37 +113,10 @@ const CheckItem = ({ text }: { text: string }) => (
 export default function Pricing() {
   const [isYearly, setIsYearly] = useState<boolean>(false)
   const togglePricingPeriod = (value: string) => setIsYearly(parseInt(value) === 1)
-  const { user } = useUser();
-  const [stripePromise, setStripePromise] = useState<Promise<any> | null>(null)
-
-  useEffect(() => {
-    setStripePromise(loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLIC_KEY!))
-  }, [])
 
   const handleCheckout = async (priceId: string, subscription: boolean) => {
-
-    try {
-      const { data } = await axios.post(`/api/payments/create-checkout-session`,
-        { userId: user?.id, email: user?.emailAddresses?.[0]?.emailAddress, priceId, subscription });
-
-      if (data.sessionId) {
-        const stripe = await stripePromise;
-
-        const response = await stripe?.redirectToCheckout({
-          sessionId: data.sessionId,
-        });
-
-        return response
-      } else {
-        console.error('Failed to create checkout session');
-        toast('Failed to create checkout session')
-        return
-      }
-    } catch (error) {
-      console.error('Error during checkout:', error);
-      toast('Error during checkout')
-      return
-    }
+    console.log('Checkout functionality not implemented');
+    // Implement your own checkout logic here
   };
 
   const plans = [
@@ -204,7 +159,7 @@ export default function Pricing() {
       <PricingSwitch onSwitch={togglePricingPeriod} />
       <section className="flex flex-col sm:flex-row sm:flex-wrap justify-center gap-8 mt-8">
         {plans.map((plan) => {
-          return <PricingCard user={user} handleCheckout={handleCheckout} key={plan.title} {...plan} isYearly={isYearly} />
+          return <PricingCard handleCheckout={handleCheckout} key={plan.title} {...plan} isYearly={isYearly} />
         })}
       </section>
     </div>

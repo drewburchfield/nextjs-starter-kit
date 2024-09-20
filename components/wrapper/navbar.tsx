@@ -10,7 +10,6 @@ import { BlocksIcon } from "lucide-react";
 import { NavigationMenu, NavigationMenuContent, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, NavigationMenuTrigger } from "@/components/ui/navigation-menu";
 import config from "@/config";
 import { cn } from "@/lib/utils";
-import { useAuth } from "@clerk/nextjs";
 import { Dialog, DialogClose } from "@radix-ui/react-dialog";
 
 const components: { title: string; href: string; description: string }[] = [
@@ -32,11 +31,8 @@ const components: { title: string; href: string; description: string }[] = [
 ];
 
 export default function NavBar() {
-    let userId = null;
-    if (config?.auth?.enabled) {
-        const user = useAuth();
-        userId = user?.userId;
-    }
+    // Since we've removed Clerk, we'll assume the user is always logged in for now
+    const isSignedIn = true;
 
     return (
         <div className="flex min-w-full fixed justify-between p-2 border-b z-10 dark:bg-black dark:bg-opacity-50 bg-white">
@@ -105,7 +101,14 @@ export default function NavBar() {
                 </NavigationMenuList>
             </NavigationMenu>
             <div className="flex items-center gap-2 max-[825px]:hidden">
-                {userId && <UserProfile />}
+                {isSignedIn ? (
+                    <UserProfile />
+                ) : (
+                    <Dialog>
+                        <DialogClose asChild>
+                        </DialogClose>
+                    </Dialog>
+                )}
                 <ModeToggle />
             </div>
         </div>

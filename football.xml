@@ -1,0 +1,1465 @@
+<fbgame source="NCAA In-Arena Utility" version="1.3.2" generated="09/13/2022">
+  <venue gameid="2276829" visid="USM" homeid="MIA" visname="Southern Miss." homename="Miami (FL)" date="09/10/2022" location="Miami Gardens, " stadium="Hard Rock Stadium" start="12:03 PM" end="06:21 PM" duration="06:18" attend="46422" temp="91" wind="SE 13mph" weather="Cloudy">
+    <officials ref="Magallanes,Jerry" ump="Thomas,William" line="Kelly,Michael" lj="Graham,Tim" bj="Prewitt,Scott" fj="Dishaw,Jake" sj="McCarthy,Michael" cj="Rombach,Todd" />
+    <rules qtrs="4" mins="15" downs="4" yds="10" kospot="35" tbspot="20" kotbspot="25" patspot="3" safspot="20" td="6" fg="3" pat="1" patx="2" saf="2" defpat="1" rouge="0" field="100" toh="3" sackrush="Y" fgaplay="N" netpunttb="Y" />
+  </venue>
+  <team vh="V" code="664" id="USM" name="Southern Miss." record="0-2" conf-record="0-0">
+    <linescore prds="4" line="0,7,0,0" score="7">
+      <lineprd prd="1" score="0" />
+      <lineprd prd="2" score="7" />
+      <lineprd prd="3" score="0" />
+      <lineprd prd="4" score="0" />
+    </linescore>
+    <totals totoff_plays="50" totoff_yards="231" totoff_avg="4.6">
+      <firstdowns no="12" rush="2" pass="9" penalty="1" />
+      <penalties no="7" yds="51" />
+      <conversions thirdconv="5" thirdatt="13" fourthconv="0" fourthatt="0" />
+      <misc yds="0" top="23:06" />
+      <redzone att="1" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="1" endfumb="0" endhalf="0" endgame="0" />
+      <rush att="23" yds="24" gain="56" loss="32" td="0" long="11" />
+      <pass comp="16" att="27" int="1" yds="207" td="1" long="36" sacks="3" sackyds="22" />
+      <rcv no="16" yds="207" td="1" long="36" />
+      <punt no="7" yds="321" long="63" blkd="0" tb="1" fc="2" plus50="3" inside20="1" avg="45.9" />
+      <ko no="2" yds="130" ob="0" tb="2" fcyds="0" />
+      <fg made="0" att="0" long="0" blkd="0" />
+      <pat kickatt="1" kickmade="1" />
+      <defense tackua="44" tacka="36" tot_tack="80" tflua="6" tfla="2" tflyds="27" sacks="4" sackyds="20" ff="0" fr="0" fryds="0" brup="2" int="1" intyds="16" qbh="2" blkd="0" saf="0" sacka="0" sackua="4" />
+      <kr no="2" yds="27" td="0" long="15" />
+      <pr no="1" yds="2" td="0" long="2" />
+      <ir no="1" yds="16" td="0" long="16" />
+      <fr no="0" yds="0" td="0" long="0" />
+      <fumbles no="2" lost="2" />
+      <scoring fg="0" td="1" patkick="1" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </totals>
+    <player uni="0" code="0D" name="Brooks,Natrone" shortname="Brooks,Natrone" checkname="BROOKS,NATRONE" gp="1" class="SR" dpos="DB">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <pr no="1" yds="2" td="0" long="2" />
+      <fumbles no="1" lost="1" />
+    </player>
+    <player uni="0" code="0" name="Jones,Demarcus" shortname="Jones,Demarcus" checkname="JONES,DEMARCUS" gp="1" class="SR" opos="WR">
+      <rcv no="1" yds="36" td="0" long="36" />
+    </player>
+    <player uni="1" code="1" name="Brownlee,Jason" shortname="Brownlee,Jason" checkname="BROWNLEE,JASON" gp="1" class="SR" opos="WR">
+      <rcv no="5" yds="102" td="1" long="33" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="0" td="1" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="1" code="1D" name="Daniel,Lakevias" shortname="Daniel,Lakevias" checkname="DANIEL,LAKEVIAS" gp="1" class="SR" dpos="DB" />
+    <player uni="2" code="2D" name="Scott,Eric" shortname="Scott,Eric" checkname="SCOTT,ERIC" gp="1" class="SR" dpos="DB">
+      <defense tackua="4" tacka="1" tot_tack="5" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="2" code="2" name="Pittman,Chandler" shortname="Pittman,Chandler" checkname="PITTMAN,CHANDLER" gp="1" class="SO" opos="WR">
+      <rush att="1" yds="-1" gain="0" loss="1" td="0" long="0" />
+      <rcv no="0" yds="0" td="0" long="0" />
+    </player>
+    <player uni="3" code="3" name="Gore,Frank" shortname="Gore,Frank" checkname="GORE,FRANK" gp="1" class="SO" opos="RB">
+      <rush att="7" yds="10" gain="18" loss="8" td="0" long="9" />
+      <rcv no="2" yds="13" td="0" long="18" />
+    </player>
+    <player uni="3" code="3D" name="Knight,Tylan" shortname="Knight,Tylan" checkname="KNIGHT,TYLAN" gp="1" class="SR" dpos="DB">
+      <defense tackua="1" tacka="2" tot_tack="3" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="5" code="5D" name="Jones,Jay" shortname="Jones,Jay" checkname="JONES,JAY" gp="1" class="SO" dpos="DB">
+      <defense tackua="5" tacka="2" tot_tack="7" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="6" code="6D" name="Latham,Santrell" shortname="Latham,Santrell" checkname="LATHAM,SANTRELL" gp="1" class="SR" dpos="LB">
+      <defense tackua="0" tacka="4" tot_tack="4" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="7" code="7D" name="Quewon,Dominic" shortname="Quewon,Dominic" checkname="QUEWON,DOMINIC" gp="1" class="SR" dpos="DL">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="7" code="7" name="Franks,Zay" shortname="Franks,Zay" checkname="FRANKS,ZAY" gp="1" class="FR" opos="WR" />
+    <player uni="8" code="8D" name="Clemons,Jalil" shortname="Clemons,Jalil" checkname="CLEMONS,JALIL" gp="1" class="SO" dpos="LB">
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="9" code="9D" name="Shorts,Malik" shortname="Shorts,Malik" checkname="SHORTS,MALIK" gp="1" class="JR" dpos="DB">
+      <defense tackua="7" tacka="7" tot_tack="14" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="1" intyds="16" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <ir no="1" yds="16" td="0" long="16" />
+    </player>
+    <player uni="11" code="11" name="Willis,Antavious" shortname="Willis,Antavious" checkname="WILLIS,ANTAVIOUS" gp="1" class="SO" opos="RB">
+      <rush att="1" yds="0" gain="0" loss="0" td="0" long="0" />
+      <rcv no="1" yds="6" td="0" long="6" />
+    </player>
+    <player uni="12" code="12" name="Caraway, Jr.,Micheal" shortname="Caraway, Jr.,Micheal" checkname="CARAWAY, JR.,MICHEAL" gp="1" class="SO" dpos="DB">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="12" code="1Q" name="Wilcke,Zach" shortname="Wilcke,Zach" checkname="WILCKE,ZACH" gp="1" class="FR" opos="QB">
+      <rush att="12" yds="16" gain="38" loss="22" td="0" long="11" />
+      <pass comp="16" att="27" int="1" yds="207" td="1" long="36" sacks="3" sackyds="22" />
+      <fumbles no="1" lost="1" />
+    </player>
+    <player uni="13" code="13" name="Mays,Richard" shortname="Mays,Richard" checkname="MAYS,RICHARD" gp="1" class="FR" opos="WR" />
+    <player uni="14" code="14" name="Rutherford,J.D." shortname="Rutherford,J.D." checkname="RUTHERFORD,J.D." gp="1" class="JR" dpos="DB" />
+    <player uni="15" code="15" name="Caston,Jakarius" shortname="Caston,Jakarius" checkname="CASTON,JAKARIUS" gp="1" class="JR" opos="WR">
+      <rcv no="4" yds="23" td="0" long="12" />
+    </player>
+    <player uni="16" code="6P" name="Hunt,Mason" shortname="Hunt,Mason" checkname="HUNT,MASON" gp="1" class="SR">
+      <punt no="7" yds="321" long="63" blkd="0" tb="1" fc="2" plus50="3" inside20="1" avg="45.9" />
+    </player>
+    <player uni="17" code="7B" name="Toles,Brendan" shortname="Toles,Brendan" checkname="TOLES,BRENDAN" gp="1" class="SO" dpos="DB">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="17" code="17" name="Jones,Latreal" shortname="Jones,Latreal" checkname="JONES,LATREAL" gp="1" class="JR" opos="WR">
+      <rcv no="0" yds="0" td="0" long="0" />
+    </player>
+    <player uni="21" code="21" name="Stanley,Jay" shortname="Stanley,Jay" checkname="STANLEY,JAY" gp="1" class="JR" dpos="DB">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="22" code="22" name="Rhea,Scott" shortname="Rhea,Scott" checkname="RHEA,SCOTT" gp="1" class="SO" dpos="DB" />
+    <player uni="24" code="24" name="Hopkins,Tyrese" shortname="Hopkins,Tyrese" checkname="HOPKINS,TYRESE" gp="1" class="FR" dpos="LB" />
+    <player uni="28" code="28" name="Bozeman,Swayze" shortname="Bozeman,Swayze" checkname="BOZEMAN,SWAYZE" gp="1" class="SR" dpos="LB">
+      <defense tackua="3" tacka="3" tot_tack="6" tflua="1" tfla="1" tflyds="9" sacks="1" sackyds="8" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="28" code="8R" name="Dean,Janari" shortname="Dean,Janari" checkname="DEAN,JANARI" gp="1" class="SO" opos="RB">
+      <rush att="1" yds="0" gain="0" loss="0" td="0" long="0" />
+      <rcv no="1" yds="11" td="0" long="11" />
+    </player>
+    <player uni="29" code="29" name="Harrell,Camron" shortname="Harrell,Camron" checkname="HARRELL,CAMRON" gp="1" class="SR" dpos="DB">
+      <defense tackua="2" tacka="0" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <kr no="2" yds="27" td="0" long="15" />
+    </player>
+    <player uni="31" code="31" name="Gill,Daylen" shortname="Gill,Daylen" checkname="GILL,DAYLEN" gp="1" class="SR" dpos="LB">
+      <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="0" tflyds="4" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="33" code="33" name="Cavallo,Cole" shortname="Cavallo,Cole" checkname="CAVALLO,COLE" gp="1" class="JR" opos="TE">
+      <rcv no="2" yds="16" td="0" long="10" />
+    </player>
+    <player uni="35" code="35" name="Newsome,T.Q." shortname="Newsome,T.Q." checkname="NEWSOME,T.Q." gp="1" class="SO" dpos="LB">
+      <defense tackua="3" tacka="2" tot_tack="5" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="36" code="36" name="Lewis,Brodarius" shortname="Lewis,Brodarius" checkname="LEWIS,BRODARIUS" gp="1" class="SO" dpos="DL">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="40" code="40" name="Bourgeois,Briggs" shortname="Bourgeois,Briggs" checkname="BOURGEOIS,BRIGGS" gp="1" class="SR">
+      <ko no="2" yds="130" ob="0" tb="2" fcyds="0" />
+      <fg made="0" att="0" long="0" blkd="0" />
+      <pat kickatt="1" kickmade="1" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="0" td="0" patkick="1" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="45" code="45" name="Carr,Josh" shortname="Carr,Josh" checkname="CARR,JOSH" gp="1" class="SR" dpos="LB" />
+    <player uni="46" code="46" name="Habas,Averie" shortname="Habas,Averie" checkname="HABAS,AVERIE" gp="1" class="JR" dpos="LB">
+      <defense tackua="3" tacka="2" tot_tack="5" tflua="2" tfla="0" tflyds="4" sacks="1" sackyds="2" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="48" code="48" name="Ladner,Ray" shortname="Ladner,Ray" checkname="LADNER,RAY" gp="1" class="SR" opos="TE" />
+    <player uni="51" code="51" name="Mays,Briason" shortname="Mays,Briason" checkname="MAYS,BRIASON" gp="1" class="JR" opos="OL" />
+    <player uni="55" code="55" name="Ramsey,Bryce" shortname="Ramsey,Bryce" checkname="RAMSEY,BRYCE" gp="1" class="SO" opos="OL" />
+    <player uni="56" code="56" name="Harvey,T.J." shortname="Harvey,T.J." checkname="HARVEY,T.J." gp="1" class="JR" />
+    <player uni="60" code="60" name="Wright,Coker" shortname="Wright,Coker" checkname="WRIGHT,COKER" gp="1" class="JR" opos="OL" />
+    <player uni="64" code="64" name="Barnes,Kyron" shortname="Barnes,Kyron" checkname="BARNES,KYRON" gp="1" class="FR" opos="OL" />
+    <player uni="65" code="65" name="Scott,Gerquan" shortname="Scott,Gerquan" checkname="SCOTT,GERQUAN" gp="1" class="SO" opos="OL" />
+    <player uni="71" code="71" name="Gainer,Paul" shortname="Gainer,Paul" checkname="GAINER,PAUL" gp="1" class="SR" opos="OL" />
+    <player uni="72" code="72" name="Ryals,Matt" shortname="Ryals,Matt" checkname="RYALS,MATT" gp="1" class="SO" opos="OL" />
+    <player uni="77" code="77" name="Bolding,John" shortname="Bolding,John" checkname="BOLDING,JOHN" gp="1" class="JR" opos="OL" />
+    <player uni="79" code="79" name="Doss,Tykeem" shortname="Doss,Tykeem" checkname="DOSS,TYKEEM" gp="1" class="SR" opos="OL" />
+    <player uni="85" code="85" name="Dennis,Brad" shortname="Dennis,Brad" checkname="DENNIS,BRAD" gp="1" class="SR" opos="WR" />
+    <player uni="88" code="88" name="Baker,Luke" shortname="Baker,Luke" checkname="BAKER,LUKE" gp="1" class="SO" opos="TE" />
+    <player uni="93" code="93" name="Ratcliff,Josh" shortname="Ratcliff,Josh" checkname="RATCLIFF,JOSH" gp="1" class="JR" dpos="DL">
+      <defense tackua="3" tacka="2" tot_tack="5" tflua="1" tfla="0" tflyds="5" sacks="1" sackyds="5" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="94" code="94" name="Booth,Kristin" shortname="Booth,Kristin" checkname="BOOTH,KRISTIN" gp="1" class="SO" dpos="DL">
+      <defense tackua="2" tacka="0" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="95" code="95" name="Bivens,Quentin" shortname="Bivens,Quentin" checkname="BIVENS,QUENTIN" gp="1" class="JR" dpos="DL">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="5" sacks="1" sackyds="5" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="96" code="96" name="Williams,Jalen" shortname="Williams,Jalen" checkname="WILLIAMS,JALEN" gp="1" class="JR" dpos="TK">
+      <defense tackua="2" tacka="5" tot_tack="7" tflua="0" tfla="1" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="97" code="97" name="Cooley,Armondous" shortname="Cooley,Armondous" checkname="COOLEY,ARMONDOUS" gp="1" class="FR" dpos="DL">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="99" code="99" name="Mahaffey,Jordyn" shortname="Mahaffey,Jordyn" checkname="MAHAFFEY,JORDYN" gp="1" class="SO" dpos="DL">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="TM" name="TEAM" shortname="TEAM" checkname="TEAM" gp="1" class="FR">
+      <rush att="1" yds="-1" gain="0" loss="1" td="0" long="0" />
+    </player>
+  </team>
+  <team vh="H" code="415" id="MIA" name="Miami (FL)" record="2-0" conf-record="0-0">
+    <linescore prds="4" line="3,7,14,6" score="30">
+      <lineprd prd="1" score="3" />
+      <lineprd prd="2" score="7" />
+      <lineprd prd="3" score="14" />
+      <lineprd prd="4" score="6" />
+    </linescore>
+    <totals totoff_plays="80" totoff_yards="450" totoff_avg="5.6">
+      <firstdowns no="24" rush="14" pass="9" penalty="1" />
+      <penalties no="7" yds="70" />
+      <conversions thirdconv="9" thirdatt="17" fourthconv="0" fourthatt="1" />
+      <misc yds="0" top="36:54" ptsto="3" />
+      <redzone att="4" scores="4" points="20" tdrush="2" tdpass="0" fgmade="2" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+      <rush att="49" yds="174" gain="201" loss="27" td="2" long="15" />
+      <pass comp="22" att="31" int="1" yds="276" td="1" long="35" sacks="4" sackyds="20" />
+      <rcv no="22" yds="276" td="1" long="35" />
+      <punt no="4" yds="178" long="53" blkd="0" tb="0" fc="2" plus50="1" inside20="2" avg="44.5" />
+      <ko no="7" yds="445" ob="0" tb="5" fcyds="0" />
+      <fg made="3" att="3" long="48" blkd="0" />
+      <pat kickatt="3" kickmade="3" />
+      <defense tackua="23" tacka="22" tot_tack="45" tflua="7" tfla="2" tflyds="36" sacks="3" sackyds="22" ff="1" fr="2" fryds="0" brup="4" int="1" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="3" />
+      <kr no="0" yds="0" td="0" long="0" />
+      <pr no="2" yds="40" td="0" long="30" />
+      <ir no="1" yds="0" td="0" long="0" />
+      <fr no="1" yds="0" td="0" long="0" />
+      <fumbles no="0" lost="0" />
+      <scoring fg="3" td="3" patkick="3" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </totals>
+    <player uni="0" code="0W" name="Williams,James" shortname="Williams,James" checkname="WILLIAMS,JAMES" gp="1" class="SO" dpos="DB">
+      <defense tackua="2" tacka="3" tot_tack="5" tflua="0" tfla="1" tflyds="2" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="0" code="0" name="Brinson,Romello" shortname="Brinson,Romello" checkname="BRINSON,ROMELLO" gp="1" class="SO" opos="WR">
+      <rcv no="1" yds="18" td="0" long="18" />
+    </player>
+    <player uni="2" code="2S" name="Stevenson,Tyrique" shortname="Stevenson,Tyrique" checkname="STEVENSON,TYRIQUE" gp="1" class="JR" dpos="DB">
+      <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="1" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <pr no="2" yds="40" td="0" long="30" />
+      <ir no="1" yds="0" td="0" long="0" />
+    </player>
+    <player uni="3" code="3F" name="Frierson,Gilbert" shortname="Frierson,Gilbert" checkname="FRIERSON,GILBERT" gp="1" class="SR" dpos="DB" />
+    <player uni="4" code="4S" name="Smith,Keontra" shortname="Smith,Keontra" checkname="SMITH,KEONTRA" gp="1" class="SR" dpos="DB">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="4" code="4" name="Knighton,Jaylan" shortname="Knighton,Jaylan" checkname="KNIGHTON,JAYLAN" gp="1" class="JR" opos="RB">
+      <rush att="6" yds="19" gain="19" loss="0" td="0" long="6" />
+      <rcv no="0" yds="0" td="0" long="0" />
+    </player>
+    <player uni="5" code="5" name="Smith,Key'Shawn" shortname="Smith,Key'Shawn" checkname="SMITH,KEY'SHAWN" gp="1" class="JR" opos="WR">
+      <rush att="1" yds="6" gain="6" loss="0" td="0" long="6" />
+      <rcv no="3" yds="49" td="1" long="35" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="0" td="1" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="6" code="6" name="Jackson,Darrell" shortname="Jackson,Darrell" checkname="JACKSON,DARRELL" gp="1" class="SO" dpos="DL">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="7" code="7B" name="Blades, Jr.,Al" shortname="Blades, Jr.,Al" checkname="BLADES, JR.,AL" gp="1" class="SR" dpos="DB">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="7" code="7" name="Restrepo,Xavier" shortname="Restrepo,Xavier" checkname="RESTREPO,XAVIER" gp="1" class="JR" opos="WR">
+      <rcv no="6" yds="72" td="0" long="24" />
+    </player>
+    <player uni="8" code="8" name="Ladson Jr.,Frank" shortname="Ladson Jr.,Frank" checkname="LADSON JR.,FRANK" gp="1" class="SR" opos="WR" />
+    <player uni="8" code="8I" name="Ivey,DJ" shortname="Ivey,DJ" checkname="IVEY,DJ" gp="1" class="SR" dpos="DB">
+      <defense tackua="5" tacka="0" tot_tack="5" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="9" code="9H" name="Huff,Avery" shortname="Huff,Avery" checkname="HUFF,AVERY" gp="1" class="SR" dpos="LB" />
+    <player uni="9" code="9" name="Van Dyke,Tyler" shortname="Van Dyke,Tyler" checkname="VAN DYKE,TYLER" gp="1" class="JR" opos="QB">
+      <rush att="6" yds="-16" gain="4" loss="20" td="0" long="3" />
+      <pass comp="20" att="29" int="1" yds="261" td="1" long="35" sacks="4" sackyds="20" />
+    </player>
+    <player uni="11" code="1F" name="Flagg, Jr.,Corey" shortname="Flagg, Jr.,Corey" checkname="FLAGG, JR.,COREY" gp="1" class="JR" dpos="LB">
+      <defense tackua="4" tacka="2" tot_tack="6" tflua="1" tfla="1" tflyds="3" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="12" code="2H" name="Harvey,Jahfari" shortname="Harvey,Jahfari" checkname="HARVEY,JAHFARI" gp="1" class="JR" dpos="DL" />
+    <player uni="12" code="12" name="Smith,Brashard" shortname="Smith,Brashard" checkname="SMITH,BRASHARD" gp="1" class="SO" opos="WR">
+      <rush att="1" yds="7" gain="7" loss="0" td="0" long="7" />
+      <rcv no="4" yds="53" td="0" long="30" />
+    </player>
+    <player uni="13" code="3W" name="Williams,Chantz" shortname="Williams,Chantz" checkname="WILLIAMS,CHANTZ" gp="1" class="JR" dpos="DL">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" ff="0" fr="1" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <fr no="1" yds="0" td="0" long="0" />
+      <fumbles no="0" lost="0" />
+    </player>
+    <player uni="13" code="13" name="Garcia,Jake" shortname="Garcia,Jake" checkname="GARCIA,JAKE" gp="1" class="SO" opos="QB">
+      <pass comp="2" att="2" int="0" yds="15" td="0" long="11" sacks="0" sackyds="0" />
+    </player>
+    <player uni="15" code="5W" name="Williams,Avantae" shortname="Williams,Avantae" checkname="WILLIAMS,AVANTAE" gp="1" class="SO" />
+    <player uni="16" code="6C" name="Curtis,Malik" shortname="Curtis,Malik" checkname="CURTIS,MALIK" gp="1" class="SO" dpos="DB">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="17" code="7S" name="Steed,Waynmon" shortname="Steed,Waynmon" checkname="STEED,WAYNMON" gp="1" class="SR" dpos="LB">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="21" code="21" name="Parrish Jr.,Henry" shortname="Parrish Jr.,Henry" checkname="PARRISH JR.,HENRY" gp="1" class="JR" opos="RB">
+      <rush att="23" yds="109" gain="113" loss="4" td="1" long="15" />
+      <rcv no="2" yds="16" td="0" long="12" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="0" td="1" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="22" code="22" name="Franklin, Jr.,Thad" shortname="Franklin, Jr.,Thad" checkname="FRANKLIN, JR.,THAD" gp="1" class="SO" opos="RB">
+      <rush att="12" yds="49" gain="52" loss="3" td="1" long="8" />
+      <rcv no="2" yds="18" td="0" long="11" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="0" td="1" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="23" code="3C" name="Couch,Te'Cory" shortname="Couch,Te'Cory" checkname="COUCH,TE'CORY" gp="1" class="SR" dpos="DB">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="24" code="4K" name="Kinchens,Kamren" shortname="Kinchens,Kamren" checkname="KINCHENS,KAMREN" gp="1" class="SO" dpos="DB">
+      <defense tackua="0" tacka="4" tot_tack="4" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="1" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <fumbles no="0" lost="0" />
+    </player>
+    <player uni="27" code="27" name="Balom,Brian" shortname="Balom,Brian" checkname="BALOM,BRIAN" gp="1" class="JR" />
+    <player uni="30" code="30" name="Borregales,Andres" shortname="Borregales,Andres" checkname="BORREGALES,ANDRES" gp="1" class="SO">
+      <ko no="7" yds="445" ob="0" tb="5" fcyds="0" />
+      <fg made="3" att="3" long="48" blkd="0" />
+      <pat kickatt="3" kickmade="3" />
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+      <scoring fg="3" td="0" patkick="3" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+    </player>
+    <player uni="31" code="31" name="Bissainthe,Wesley" shortname="Bissainthe,Wesley" checkname="BISSAINTHE,WESLEY" gp="1" class="FR" dpos="LB">
+      <defense tackua="0" tacka="1" tot_tack="1" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="32" code="32" name="Kelly,Nyjalik" shortname="Kelly,Nyjalik" checkname="KELLY,NYJALIK" gp="1" class="FR" dpos="DL">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="5" sacks="1" sackyds="5" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="40" code="40" name="Johnson,Caleb" shortname="Johnson,Caleb" checkname="JOHNSON,CALEB" gp="1" class="SR" dpos="LB" />
+    <player uni="41" code="1C" name="Smith,Chase" shortname="Smith,Chase" checkname="SMITH,CHASE" gp="1" class="SO" dpos="LB">
+      <defense tackua="0" tacka="2" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="44" code="44" name="Moultrie,Antonio" shortname="Moultrie,Antonio" checkname="MOULTRIE,ANTONIO" gp="1" class="SR" dpos="DL">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="1" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="45" code="45" name="Agude,Mitchell" shortname="Agude,Mitchell" checkname="AGUDE,MITCHELL" gp="1" class="SR" dpos="LB" />
+    <player uni="49" code="49" name="Napper,Mason" shortname="Napper,Mason" checkname="NAPPER,MASON" gp="1" class="SR" />
+    <player uni="51" code="51" name="Scaife, Jr.,DJ" shortname="Scaife, Jr.,DJ" checkname="SCAIFE, JR.,DJ" gp="1" class="SR" opos="OL">
+      <defense tackua="0" tacka="0" tot_tack="0" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="53" code="53" name="Clark,Jakai" shortname="Clark,Jakai" checkname="CLARK,JAKAI" gp="1" class="SR" opos="OL" />
+    <player uni="55" code="5L" name="Lichtenstein,Jacob" shortname="Lichtenstein,Jacob" checkname="LICHTENSTEIN,JACOB" gp="1" class="JR" dpos="DL">
+      <defense tackua="1" tacka="0" tot_tack="1" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="55" code="55" name="Cooper,Anez" shortname="Cooper,Anez" checkname="COOPER,ANEZ" gp="1" class="FR" opos="OL" />
+    <player uni="56" code="6D" name="Denis,Jonathan" shortname="Denis,Jonathan" checkname="DENIS,JONATHAN" gp="1" class="SO" opos="OL" />
+    <player uni="56" code="56" name="Taylor,Leonard" shortname="Taylor,Leonard" checkname="TAYLOR,LEONARD" gp="1" class="SO" dpos="DL">
+      <defense tackua="2" tacka="0" tot_tack="2" tflua="2" tfla="0" tflyds="12" sacks="1" sackyds="9" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+    </player>
+    <player uni="58" code="58" name="James,Clay" shortname="James,Clay" checkname="JAMES,CLAY" gp="1" class="SR" />
+    <player uni="64" code="64" name="Rivers,Jalen" shortname="Rivers,Jalen" checkname="RIVERS,JALEN" gp="1" class="FR" opos="OL" />
+    <player uni="70" code="70" name="Oluwaseun,Justice" shortname="Oluwaseun,Justice" checkname="OLUWASEUN,JUSTICE" gp="1" class="SR" opos="OL" />
+    <player uni="72" code="72" name="Washington,Chris" shortname="Washington,Chris" checkname="WASHINGTON,CHRIS" gp="1" class="JR" opos="OL" />
+    <player uni="74" code="74" name="Campbell, Jr.,John" shortname="Campbell, Jr.,John" checkname="CAMPBELL, JR.,JOHN" gp="1" class="SR" opos="OL" />
+    <player uni="80" code="80" name="Arroyo,Elijah" shortname="Arroyo,Elijah" checkname="ARROYO,ELIJAH" gp="1" class="SO" opos="TE">
+      <rcv no="1" yds="5" td="0" long="5" />
+    </player>
+    <player uni="81" code="1H" name="Harrison-Hunte,Jared" shortname="Harrison-Hunte,Jared" checkname="HARRISON-HUNTE,JARED" gp="1" class="SR" dpos="DL" />
+    <player uni="83" code="83" name="Redding III,Michael" shortname="Redding III,Michael" checkname="REDDING III,MICHAEL" gp="1" class="JR" opos="WR">
+      <rcv no="3" yds="45" td="0" long="20" />
+    </player>
+    <player uni="85" code="85" name="Mallory,Will" shortname="Mallory,Will" checkname="MALLORY,WILL" gp="1" class="SR" opos="TE">
+      <rcv no="0" yds="0" td="0" long="0" />
+    </player>
+    <player uni="86" code="86" name="Mammarelli,Dominic" shortname="Mammarelli,Dominic" checkname="MAMMARELLI,DOMINIC" gp="1" class="JR" opos="TE" />
+    <player uni="91" code="91" name="Miller,Jordan" shortname="Miller,Jordan" checkname="MILLER,JORDAN" gp="1" class="SR" dpos="DL">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="1" tfla="0" tflyds="5" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="94" code="94" name="Hedley,Lou" shortname="Hedley,Lou" checkname="HEDLEY,LOU" gp="1" class="SR">
+      <punt no="4" yds="178" long="53" blkd="0" tb="0" fc="2" plus50="1" inside20="2" avg="44.5" />
+    </player>
+    <player uni="99" code="99" name="Roberts,Elijah" shortname="Roberts,Elijah" checkname="ROBERTS,ELIJAH" gp="1" class="JR" dpos="DL">
+      <defense tackua="1" tacka="1" tot_tack="2" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+    </player>
+    <player uni="TM" name="TEAM" shortname="TEAM" checkname="TEAM" gp="1" class="FR" />
+  </team>
+  <scores>
+    <score vh="H" team="MIA" qtr="1" clock="01:39" type="FG" yds="30" scorer="Borregales,Andres" plays="16" drive="68" top="06:14" vscore="0" hscore="3" driveindex="3" />
+    <score vh="V" team="USM" qtr="2" clock="14:30" type="TD" how="PASS" yds="32" scorer="Brownlee,Jason" passer="Wilcke,Zach" patby="Bourgeois,Briggs" pattype="Kick" patres="Good" plays="6" drive="75" top="02:09" vscore="7" hscore="3" driveindex="4" />
+    <score vh="H" team="MIA" qtr="2" clock="00:20" type="TD" how="RUSH" yds="1" scorer="Parrish Jr.,Henry" patby="Borregales,Andres" pattype="Kick" patres="Good" plays="10" drive="86" top="02:52" vscore="7" hscore="10" driveindex="9" />
+    <score vh="H" team="MIA" qtr="3" clock="07:10" type="TD" how="RUSH" yds="7" scorer="Franklin, Jr.,Thad" patby="Borregales,Andres" pattype="Kick" patres="Good" plays="13" drive="77" top="06:11" vscore="7" hscore="17" driveindex="11" />
+    <score vh="H" team="MIA" qtr="3" clock="05:02" type="TD" how="PASS" yds="35" scorer="Smith,Key'Shawn" passer="Van Dyke,Tyler" patby="Borregales,Andres" pattype="Kick" patres="Good" plays="1" drive="35" top="00:00" vscore="7" hscore="24" driveindex="13" />
+    <score vh="H" team="MIA" qtr="4" clock="09:11" type="FG" yds="33" scorer="Borregales,Andres" plays="12" drive="44" top="05:30" vscore="7" hscore="27" driveindex="17" />
+    <score vh="H" team="MIA" qtr="4" clock="03:34" type="FG" yds="48" scorer="Borregales,Andres" plays="7" drive="14" top="03:50" vscore="7" hscore="30" driveindex="19" />
+  </scores>
+  <fgas>
+    <fga vh="H" team="MIA" kicker="Borregales,Andres" qtr="1" clock="01:39" distance="30" result="GOOD" />
+    <fga vh="H" team="MIA" kicker="Borregales,Andres" qtr="4" clock="09:11" distance="33" result="GOOD" />
+    <fga vh="H" team="MIA" kicker="Borregales,Andres" qtr="4" clock="03:34" distance="48" result="GOOD" />
+  </fgas>
+  <drives>
+    <drive vh="H" team="MIA" start="KO,1,15:00,25" end="PUNT,1,13:19,29" plays="3" yards="4" top="01:41" start_how="KO" start_qtr="1" start_time="15:00" start_spot="MIA25" end_how="PUNT" end_qtr="1" end_time="13:19" end_spot="MIA29" driveindex="1" />
+    <drive vh="V" team="USM" start="PUNT,1,13:19,18" end="PUNT,1,07:53,53" plays="12" yards="35" top="05:26" start_how="PUNT" start_qtr="1" start_time="13:19" start_spot="USM18" end_how="PUNT" end_qtr="1" end_time="07:53" end_spot="MIA47" driveindex="2" />
+    <drive vh="H" team="MIA" start="PUNT,1,07:53,20" end="FG,1,01:39,88" plays="16" yards="68" top="06:14" start_how="PUNT" start_qtr="1" start_time="07:53" start_spot="MIA20" end_how="FG" end_qtr="1" end_time="01:39" end_spot="USM12" rz="1" driveindex="3" />
+    <drive vh="V" team="USM" start="KO,1,01:39,25" end="TD,2,14:30,100" plays="6" yards="75" top="02:09" start_how="KO" start_qtr="1" start_time="01:39" start_spot="USM25" end_how="TD" end_qtr="2" end_time="14:30" end_spot="MIA0" driveindex="4" />
+    <drive vh="H" team="MIA" start="KO,2,14:30,25" end="INT,2,10:48,67" plays="9" yards="42" top="03:42" start_how="KO" start_qtr="2" start_time="14:30" start_spot="MIA25" end_how="INT" end_qtr="2" end_time="10:48" end_spot="USM33" driveindex="5" />
+    <drive vh="V" team="USM" start="INT,2,10:48,32" end="PUNT,2,07:13,61" plays="5" yards="29" top="03:35" start_how="INT" start_qtr="2" start_time="10:48" start_spot="USM32" end_how="PUNT" end_qtr="2" end_time="07:13" end_spot="MIA39" driveindex="6" />
+    <drive vh="H" team="MIA" start="PUNT,2,07:13,23" end="PUNT,2,04:45,35" plays="4" yards="12" top="02:28" start_how="PUNT" start_qtr="2" start_time="07:13" start_spot="MIA23" end_how="PUNT" end_qtr="2" end_time="04:45" end_spot="MIA35" driveindex="7" />
+    <drive vh="V" team="USM" start="PUNT,2,04:45,23" end="PUNT,2,03:12,29" plays="3" yards="6" top="01:33" start_how="PUNT" start_qtr="2" start_time="04:45" start_spot="USM23" end_how="PUNT" end_qtr="2" end_time="03:12" end_spot="USM29" driveindex="8" />
+    <drive vh="H" team="MIA" start="PUNT,2,03:12,14" end="TD,2,00:20,100" plays="10" yards="86" top="02:52" start_how="PUNT" start_qtr="2" start_time="03:12" start_spot="MIA14" end_how="TD" end_qtr="2" end_time="00:20" end_spot="USM0" rz="1" driveindex="9" />
+    <drive vh="V" team="USM" start="KO,3,15:00,25" end="PUNT,3,13:21,24" plays="3" yards="-1" top="01:39" start_how="KO" start_qtr="3" start_time="15:00" start_spot="USM25" end_how="PUNT" end_qtr="3" end_time="13:21" end_spot="USM24" driveindex="10" />
+    <drive vh="H" team="MIA" start="PUNT,3,13:21,23" end="TD,3,07:10,100" plays="13" yards="77" top="06:11" start_how="PUNT" start_qtr="3" start_time="13:21" start_spot="MIA23" end_how="TD" end_qtr="3" end_time="07:10" end_spot="USM0" rz="1" driveindex="11" />
+    <drive vh="V" team="USM" start="KO,3,07:10,25" end="PUNT,3,05:02,24" plays="3" yards="-1" top="02:08" start_how="KO" start_qtr="3" start_time="07:10" start_spot="USM25" end_how="PUNT" end_qtr="3" end_time="05:02" end_spot="USM24" driveindex="12" />
+    <drive vh="H" team="MIA" start="PUNT,3,05:02,65" end="TD,3,05:02,100" plays="1" yards="35" top="00:00" start_how="PUNT" start_qtr="3" start_time="05:02" start_spot="USM35" end_how="TD" end_qtr="3" end_time="05:02" end_spot="USM0" driveindex="13" />
+    <drive vh="V" team="USM" start="KO,3,04:56,25" end="INT,3,02:28,94" plays="7" yards="69" top="02:28" start_how="KO" start_qtr="3" start_time="04:56" start_spot="USM25" end_how="INT" end_qtr="3" end_time="02:28" end_spot="MIA6" rz="1" driveindex="14" />
+    <drive vh="H" team="MIA" start="INT,3,02:28,20" end="PUNT,3,00:11,46" plays="4" yards="24" top="02:17" start_how="INT" start_qtr="3" start_time="02:28" start_spot="MIA20" end_how="PUNT" end_qtr="3" end_time="00:11" end_spot="MIA46" driveindex="15" />
+    <drive vh="V" team="USM" start="PUNT,3,00:11,12" end="PUNT,4,14:41,13" plays="3" yards="1" top="00:30" start_how="PUNT" start_qtr="3" start_time="00:11" start_spot="USM12" end_how="PUNT" end_qtr="4" end_time="14:41" end_spot="USM13" driveindex="16" />
+    <drive vh="H" team="MIA" start="PUNT,4,14:41,41" end="FG,4,09:11,85" plays="12" yards="44" top="05:30" start_how="PUNT" start_qtr="4" start_time="14:41" start_spot="MIA41" end_how="FG" end_qtr="4" end_time="09:11" end_spot="USM15" rz="1" driveindex="17" />
+    <drive vh="V" team="USM" start="KO,4,09:11,25" end="FUMB,4,07:24,44" plays="5" yards="19" top="01:47" start_how="KO" start_qtr="4" start_time="09:11" start_spot="USM25" end_how="FUMB" end_qtr="4" end_time="07:24" end_spot="USM44" driveindex="18" />
+    <drive vh="H" team="MIA" start="FUMB,4,07:24,56" end="FG,4,03:34,70" plays="7" yards="14" top="03:50" start_how="FUMB" start_qtr="4" start_time="07:24" start_spot="USM44" end_how="FG" end_qtr="4" end_time="03:34" end_spot="USM30" driveindex="19" />
+    <drive vh="V" team="USM" start="KO,4,03:34,25" end="PUNT,4,02:09,19" plays="3" yards="-6" top="01:25" start_how="KO" start_qtr="4" start_time="03:34" start_spot="USM25" end_how="PUNT" end_qtr="4" end_time="02:09" end_spot="USM19" driveindex="20" />
+    <drive vh="H" team="MIA" start="PUNT,4,02:09,30" end="PUNT,4,00:11,37" plays="3" yards="7" top="01:58" start_how="PUNT" start_qtr="4" start_time="02:09" start_spot="MIA30" end_how="PUNT" end_qtr="4" end_time="00:11" end_spot="MIA37" driveindex="21" />
+    <drive vh="H" team="MIA" start="PUNT,4,00:11,76" end="HALF,4,00:00,83" plays="1" yards="7" top="00:11" start_how="PUNT" start_qtr="4" start_time="00:11" start_spot="USM24" end_how="HALF" end_qtr="4" end_time="00:00" end_spot="USM17" driveindex="22" />
+  </drives>
+  <plays format="summary">
+    <qtr number="1" text="1st">
+      <play hasball="USM" down="1" togo="10" spot="USM35" context="V,1,10,V35" playid="0,1,0" type="#" tokens="CMT: Southern Miss. wins toss and defers&#xD;&#xA;CMT: MIA will receive&#xD;&#xA;CMT: USM will defend West end-zone&#xD;&#xA;" text="Southern Miss. wins toss and defers; MIA will receive; USM will defend West end-zone." newcontext="V,1,10,V35" />
+      <play hasball="USM" down="1" togo="10" spot="USM35" context="V,1,10,V35" playid="0,2,1" type="#" tokens="Q:1 T:15:00 SPOT:V,V35,N" text="Start of 1st quarter, clock 15:00." newcontext="V,1,10,V35" />
+      <play hasball="USM" down="1" togo="10" spot="USM35" context="V,1,10,V35" playid="0,3,2" type="K" clock="15:00" tokens="KO:40,H00 TB:" text="Bourgeois,Briggs kickoff 65 yards to the MIA00, Touchback." newcontext="H,1,10,H25">
+        <p_ko vh="V" name="Bourgeois,Briggs" gain="65" result="T" />
+      </play>
+      <drivestart vh="H" spot="H25" clock="15:00" driveIndex="1,3" poss="H,H25,15:00" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA25" context="H,1,10,H25" playid="1,1,3" type="#" clock="15:00" tokens="{DRIVE}:15:00" text="Miami (FL) drive start at 15:00." newcontext="H,1,10,H25" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA25" context="H,1,10,H25" playid="1,2,4" type="P" clock="14:41" tokens="PASS:9,C,21,H29,RE TACK:94 T:14:41" text="(15:00) No Huddle-Shotgun Van Dyke,Tyler pass complete short right to Parrish Jr.,Henry for 4 yards to the MIA29 (Booth,Kristin)." newcontext="H,2,6,H29">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Parrish Jr.,Henry" gain="4" />
+        <p_tk vh="V" name="Booth,Kristin" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="6" spot="MIA29" context="H,2,6,H29" playid="1,3,5" type="R" clock="14:12" tokens="RUSH:21,H34,RE TACK:31,9D T:14:12" text="(14:30) No Huddle-Shotgun Parrish Jr.,Henry rush right for 5 yards gain to the MIA34 (Gill,Daylen; Shorts,Malik)." newcontext="H,3,1,H34">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="5" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="3" togo="1" spot="MIA34" context="H,3,1,H34" playid="1,4,6" type="E" clock="13:51" tokens="PEN:H,FS,A,6D,H29,N &#xD;&#xA;D:3,6T:13:51" text="(13:55) PENALTY MIA False Start (Denis,Jonathan) 5 yards from MIA34 to MIA29. NO PLAY." newcontext="H,3,6,H29">
+        <p_pn vh="H" name="Denis,Jonathan" code="FS" type="false start" result="ACCEPT" at="H34" yards="5" />
+      </play>
+      <play hasball="MIA" down="3" togo="6" spot="MIA29" context="H,3,6,H29" playid="1,5,7" type="P" clock="13:26" tokens="PASS:9,I,85,*,MI T:13:26" text="(13:31) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short middle to Mallory,Will." newcontext="H,4,6,H29">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Mallory,Will" />
+      </play>
+      <play hasball="MIA" down="4" togo="6" spot="MIA29" context="H,4,6,H29" playid="1,6,8" type="U" clock="13:19" tokens="PUNT:94,V18 FC:0D" text="(13:26) Hedley,Lou punt 53 yards to the USM18 fair catch by Brooks,Natrone at USM18." newcontext="V,1,10,V18">
+        <p_pu vh="H" name="Hedley,Lou" gain="53" in20="Y" tb="N" ob="N" />
+      </play>
+      <drivesum plays="3" yards="4" top="01:41" driveindex="1" />
+      <drivestart vh="V" spot="V18" clock="13:19" driveIndex="2,9" poss="V,V18,13:19" />
+      <play hasball="USM" down="1" togo="10" spot="USM18" context="V,1,10,V18" playid="2,1,9" type="#" clock="13:19" tokens="{DRIVE}:13:19" text="Southern Miss. drive start at 13:19." newcontext="V,1,10,V18" />
+      <play hasball="USM" down="1" togo="10" spot="USM18" context="V,1,10,V18" playid="2,2,10" type="R" clock="13:01" tokens="RUSH:11,V18,RE TACK:1F T:13:01" text="(13:19) No Huddle-Shotgun Willis,Antavious rush right for 0 yards to the USM18 (Flagg, Jr.,Corey)." newcontext="V,2,10,V18">
+        <p_ru vh="V" name="Willis,Antavious" gain="0" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="10" spot="USM18" context="V,2,10,V18" playid="2,3,11" type="R" clock="12:30" tokens="RUSH:1Q,V27,MI TACK:99 T:12:30" text="(12:49) No Huddle-Shotgun Wilcke,Zach rush middle for 9 yards gain to the USM27 (Roberts,Elijah)." newcontext="V,3,1,V27">
+        <p_ru vh="V" name="Wilcke,Zach" gain="9" />
+        <p_tk vh="H" name="Roberts,Elijah" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="3" togo="1" spot="USM27" context="V,3,1,V27" playid="2,4,12" type="R" first="P" clock="12:03" tokens="RUSH:3,V28,MI TACK:7S T:12:03" text="(12:14) No Huddle Gore,Frank rush middle for 1 yard gain to the USM28 (Steed,Waynmon), 1ST DOWN." newcontext="V,1,10,V28">
+        <p_ru vh="V" name="Gore,Frank" gain="1" />
+        <p_tk vh="H" name="Steed,Waynmon" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM28" context="V,1,10,V28" playid="2,5,13" type="R" clock="11:26" tokens="RUSH:3,V29,MI TACK:6 T:11:26" text="(11:41) No Huddle-Shotgun Gore,Frank rush middle for 1 yard gain to the USM29 (Jackson,Darrell)." newcontext="V,2,9,V29">
+        <p_ru vh="V" name="Gore,Frank" gain="1" />
+        <p_tk vh="H" name="Jackson,Darrell" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="9" spot="USM29" context="V,2,9,V29" playid="2,6,14" type="P" clock="11:04" tokens="PASS:1Q,I,15,*,MI T:11:04" text="(11:08) No Huddle-Shotgun Wilcke,Zach pass incomplete short middle to Caston,Jakarius." newcontext="V,3,9,V29">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Caston,Jakarius" />
+      </play>
+      <play hasball="USM" down="3" togo="9" spot="USM29" context="V,3,9,V29" playid="2,7,15" type="P" first="P" clock="10:45" tokens="PASS:1Q,C,15,V38,MI TACK:8I T:10:45" text="(11:04) No Huddle-Shotgun Wilcke,Zach pass complete short middle to Caston,Jakarius for 9 yards to the USM38 (Ivey,DJ), 1ST DOWN." newcontext="V,1,10,V38">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Caston,Jakarius" gain="9" />
+        <p_tk vh="H" name="Ivey,DJ" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM38" context="V,1,10,V38" playid="2,8,16" type="P" clock="10:09" ob="Y" tokens="PASS:1Q,C,11,V44,RE OB: TACK:0W T:10:09" text="(10:26) No Huddle-Shotgun Wilcke,Zach pass complete short right to Willis,Antavious for 6 yards to the USM44 (Williams,James), out of bounds." newcontext="V,2,4,V44">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Willis,Antavious" gain="6" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="4" spot="USM44" context="V,2,4,V44" playid="2,9,17" type="P" clock="09:41" ob="Y" tokens="PASS:1Q,C,15,V40,RE OB: TACK:1F,0W T:09:41" text="(09:56) No Huddle-Shotgun Wilcke,Zach pass complete short right to Caston,Jakarius for 4 yards loss to the USM40 (Flagg, Jr.,Corey; Williams,James), out of bounds." newcontext="V,3,8,V40">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Caston,Jakarius" gain="-4" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="Y" ff="N" assist="Y" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="Y" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="3" togo="8" spot="USM40" context="V,3,8,V40" playid="2,10,18" type="P" first="P" clock="09:07" tokens="PASS:1Q,C,33,V50,MI TACK:1F T:09:07" text="(09:19) No Huddle-Shotgun Wilcke,Zach pass complete short middle to Cavallo,Cole for 10 yards to the USM50 (Flagg, Jr.,Corey), 1ST DOWN." newcontext="V,1,10,H50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Cavallo,Cole" gain="10" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA50" context="V,1,10,H50" playid="2,11,19" type="P" clock="08:41" tokens="PASS:1Q,I,2,*,RE T:08:41" text="(08:45) No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Pittman,Chandler." newcontext="V,2,10,H50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Pittman,Chandler" />
+      </play>
+      <play hasball="USM" down="2" togo="10" spot="MIA50" context="V,2,10,H50" playid="2,12,20" type="P" clock="08:36" tokens="PASS:1Q,I,1,*,RE T:08:36" text="(08:41) No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Brownlee,Jason." newcontext="V,3,10,H50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Brownlee,Jason" />
+      </play>
+      <play hasball="USM" down="3" togo="10" spot="MIA50" context="V,3,10,H50" playid="2,13,21" type="R" clock="08:15" tokens="RUSH:1Q,H47,LE TACK:99,44 T:08:15" text="(08:36) No Huddle-Shotgun Wilcke,Zach rush left for 3 yards gain to the MIA47 (Roberts,Elijah; Moultrie,Antonio)." newcontext="V,4,7,H47">
+        <p_ru vh="V" name="Wilcke,Zach" gain="3" />
+        <p_tk vh="H" name="Roberts,Elijah" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Moultrie,Antonio" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="4" togo="7" spot="MIA47" context="V,4,7,H47" playid="2,14,22" type="U" clock="07:53" tokens="PUNT:6P,H00 TB:" text="(07:58) Hunt,Mason punt 47 yards to the MIA00, Touchback." newcontext="H,1,10,H20">
+        <p_pu vh="V" name="Hunt,Mason" gain="47" in20="N" tb="Y" ob="N" />
+      </play>
+      <drivesum plays="12" yards="35" top="05:26" driveindex="2" />
+      <drivestart vh="H" spot="H20" clock="07:53" driveIndex="3,23" poss="H,H20,07:53" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA20" context="H,1,10,H20" playid="3,1,23" type="#" clock="07:53" tokens="{DRIVE}:07:53" text="Miami (FL) drive start at 07:53." newcontext="H,1,10,H20" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA20" context="H,1,10,H20" playid="3,2,24" type="P" clock="07:46" tokens="PASS:9,I,85,*,RE QBH:V,94 T:07:46" text="(07:53) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short right to Mallory,Will QB hurried by Booth,Kristin." newcontext="H,2,10,H20">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Mallory,Will" />
+        <p_qbh vh="V" name="Booth,Kristin" />
+      </play>
+      <play hasball="MIA" down="2" togo="10" spot="MIA20" context="H,2,10,H20" playid="3,3,25" type="P" clock="07:42" tokens="PASS:9,I,85,*,MI T:07:42" text="(07:46) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short middle to Mallory,Will." newcontext="H,3,10,H20">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Mallory,Will" />
+      </play>
+      <play hasball="MIA" down="3" togo="10" spot="MIA20" context="H,3,10,H20" playid="3,4,26" type="P" first="P" tokens="PASS:9,C,12,H50,MI PEN:V,OD,D,9D,H20,N &#xD;&#xA;D:1,10" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Smith,Brashard for 30 yards to the MIA50, End Of Play, 1ST DOWN, PENALTY USM Offside declined." newcontext="H,1,10,H50">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Smith,Brashard" gain="30" />
+        <p_pn vh="V" name="" code="OS" type="offside" result="DECLINE" at="H20" yards="0" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA50" context="H,1,10,H50" playid="3,5,27" type="R" clock="06:26" tokens="RUSH:21,V42,RE TACK:94 T:06:26" text="No Huddle-Shotgun Parrish Jr.,Henry rush right for 8 yards gain to the USM42 (Booth,Kristin)." newcontext="H,2,2,V42">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="8" />
+        <p_tk vh="V" name="Booth,Kristin" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="2" spot="USM42" context="H,2,2,V42" playid="3,6,28" type="R" clock="06:03" tokens="RUSH:21,V41,MI TACK:46 T:06:03" text="No Huddle-Shotgun Parrish Jr.,Henry rush middle for 1 yard gain to the USM41 (Habas,Averie)." newcontext="H,3,1,V41">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="1" />
+        <p_tk vh="V" name="Habas,Averie" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="1" spot="USM41" context="H,3,1,V41" playid="3,7,29" type="R" first="P" clock="05:24" tokens="RUSH:4,V39,MI TACK:6D,46 T:05:24" text="No Huddle-Shotgun Knighton,Jaylan rush middle for 2 yards gain to the USM39 (Latham,Santrell; Habas,Averie), 1ST DOWN." newcontext="H,1,10,V39">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="2" />
+        <p_tk vh="V" name="Latham,Santrell" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Habas,Averie" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM39" context="H,1,10,V39" playid="3,8,30" type="R" clock="04:59" ob="Y" tokens="RUSH:9,V38,RE OB: T:04:59" text="No Huddle-Shotgun Van Dyke,Tyler rush right for 1 yard gain to the USM38, out of bounds at USM38." newcontext="H,2,9,V38">
+        <p_ru vh="H" name="Van Dyke,Tyler" gain="1" />
+      </play>
+      <play hasball="MIA" down="2" togo="9" spot="USM38" context="H,2,9,V38" playid="3,9,31" type="P" clock="04:24" tokens="PASS:9,C,12,V30,LE TACK:29 T:04:24" text="No Huddle-Shotgun Van Dyke,Tyler pass complete short left to Smith,Brashard for 8 yards to the USM30 (Harrell,Camron)." newcontext="H,3,1,V30">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Smith,Brashard" gain="8" />
+        <p_tk vh="V" name="Harrell,Camron" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="1" spot="USM30" context="H,3,1,V30" playid="3,10,32" type="R" first="P" clock="03:48" tokens="RUSH:21,V24,MI TACK:7B T:03:48" text="No Huddle-Shotgun Parrish Jr.,Henry rush middle for 6 yards gain to the USM24 (Toles,Brendan), 1ST DOWN." newcontext="H,1,10,V24">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="6" />
+        <p_tk vh="V" name="Toles,Brendan" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM24" context="H,1,10,V24" playid="3,11,33" type="R" clock="03:18" tokens="RUSH:21,V20,MI TACK:36,9D T:03:18" text="No Huddle-Shotgun Parrish Jr.,Henry rush middle for 4 yards gain to the USM20 (Lewis,Brodarius; Shorts,Malik)." newcontext="H,2,6,V20">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="4" />
+        <p_tk vh="V" name="Lewis,Brodarius" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="6" spot="USM20" context="H,2,6,V20" playid="3,12,34" type="R" tokens="RUSH:4,V15,RE TACK:93,9D" text="No Huddle-Shotgun Knighton,Jaylan rush right for 5 yards gain to the USM15 (Ratcliff,Josh; Shorts,Malik)." newcontext="H,3,1,V15">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="5" />
+        <p_tk vh="V" name="Ratcliff,Josh" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="3" togo="1" spot="USM15" context="H,3,1,V15" playid="3,13,35" type="R" first="P" tokens="RUSH:4,V13,MI TACK:31" text="No Huddle-Shotgun Knighton,Jaylan rush middle for 2 yards gain to the USM13 (Gill,Daylen), 1ST DOWN." newcontext="H,1,10,V13">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="2" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM13" context="H,1,10,V13" playid="3,14,36" type="P" clock="02:44" ob="Y" tokens="PASS:9,C,5,V10,LE OB: TACK:3D T:02:44" text="(02:57) No Huddle-Shotgun Van Dyke,Tyler pass complete short left to Smith,Key'Shawn for 3 yards to the USM10 (Knight,Tylan), out of bounds." newcontext="H,2,7,V10">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Smith,Key'Shawn" gain="3" />
+        <p_tk vh="V" name="Knight,Tylan" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="7" spot="USM10" context="H,2,7,V10" playid="3,15,37" type="R" clock="02:06" tokens="RUSH:22,V12,MI TACK:46 T:02:06" text="(02:23) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 2 yards loss to the USM12 (Habas,Averie)." newcontext="H,3,9,V12">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="-2" />
+        <p_tk vh="V" name="Habas,Averie" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="9" spot="USM12" context="H,3,9,V12" playid="3,16,38" type="P" clock="01:42" tokens="PASS:9,I,85,*,RE BRUP:8D T:01:42" text="(01:46) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short right to Mallory,Will broken up by Clemons,Jalil." newcontext="H,4,9,V12">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Mallory,Will" />
+        <p_bu vh="V" name="Clemons,Jalil" />
+      </play>
+      <play hasball="MIA" down="4" togo="9" spot="USM12" context="H,4,9,V12" playid="3,17,39" type="F" score="Y" vscore="0" hscore="3" clock="01:39" tokens="FGA:30,30,G T:01:39" text="(01:39) Borregales,Andres field goal attempt from 30 yards GOOD (H: Hedley,Lou, LS: Napper,Mason), clock 01:39." newcontext="H,1,10,H35">
+        <p_fg vh="H" name="Borregales,Andres" distance="30" result="GOOD" score="Y" />
+      </play>
+      <score V="0" H="3" />
+      <drivesum plays="16" yards="68" top="06:14" driveindex="3" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="3,18,40" type="K" clock="01:39" tokens="KO:30,V00 TB:" text="Borregales,Andres kickoff 65 yards to the USM00, Touchback." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="T" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="01:39" driveIndex="4,41" poss="V,V25,01:39" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="4,1,41" type="#" clock="01:39" tokens="{DRIVE}:01:39" text="Southern Miss. drive start at 01:39." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="4,2,42" type="R" tokens="RUSH:1Q,V27,LE TACK:8I" text="(01:39) No Huddle-Shotgun Wilcke,Zach rush left for 2 yards gain to the USM27 (Ivey,DJ)." newcontext="V,2,8,V27">
+        <p_ru vh="V" name="Wilcke,Zach" gain="2" />
+        <p_tk vh="H" name="Ivey,DJ" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="8" spot="USM27" context="V,2,8,V27" playid="4,3,43" type="P" tokens="PASS:1Q,C,1,V34,RE TACK:2S,4K" text="No Huddle-Shotgun Wilcke,Zach pass complete short right to Brownlee,Jason for 7 yards to the USM34 (Stevenson,Tyrique; Kinchens,Kamren)." newcontext="V,3,1,V34">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="7" />
+        <p_tk vh="H" name="Stevenson,Tyrique" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Kinchens,Kamren" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="3" togo="1" spot="USM34" context="V,3,1,V34" playid="4,4,44" type="E" tokens="PEN:V,FS,A,33,V29,N &#xD;&#xA;D:3,6" text="(00:27) PENALTY USM False Start (Cavallo,Cole) 5 yards from USM34 to USM29. NO PLAY." newcontext="V,3,6,V29">
+        <p_pn vh="V" name="Cavallo,Cole" code="FS" type="false start" result="ACCEPT" at="V34" yards="5" />
+      </play>
+      <play hasball="USM" down="3" togo="6" spot="USM29" context="V,3,6,V29" playid="4,5,45" type="E" first="E" tokens="PASS:1Q,I,15,*,LE PEN:H,PI,A,3C,V44,1 NOPLAY: &#xD;&#xA;D:1,10" text="(00:16) No Huddle Wilcke,Zach pass incomplete short left to Caston,Jakarius PENALTY MIA Pass Interference (Couch,Te'Cory) 15 yards from USM29 to USM44, 1ST DOWN. NO PLAY." newcontext="V,1,10,V44">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Caston,Jakarius" />
+        <p_pn vh="H" name="" code="PI" type="pass interference" result="ACCEPT" at="V29" yards="15" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM44" context="V,1,10,V44" playid="4,6,46" type="P" clock="00:00" tokens="PASS:1Q,C,15,V50,LE TACK:4K,31 T:00:00" text="(00:10) No Huddle-Shotgun Wilcke,Zach pass complete short left to Caston,Jakarius for 6 yards to the USM50 (Kinchens,Kamren; Bissainthe,Wesley)." newcontext="V,2,4,V50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Caston,Jakarius" gain="6" />
+        <p_tk vh="H" name="Kinchens,Kamren" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Bissainthe,Wesley" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <score V="0" H="3" final="Y" />
+      <endqtr />
+      <qtrsummary vh="H" id="MIA">
+        <firstdowns no="4" rush="3" pass="1" penalty="0" />
+        <penalties no="2" yds="20" />
+        <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="07:55" />
+        <redzone att="1" scores="1" points="3" tdrush="0" tdpass="0" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="10" yds="32" gain="34" loss="2" td="0" long="8" />
+        <pass comp="4" att="8" int="0" yds="45" td="0" long="30" sacks="0" sackyds="0" />
+        <rcv no="4" yds="45" td="0" long="30" />
+        <punt no="1" yds="53" long="53" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="53" />
+        <ko no="1" yds="65" ob="0" tb="1" fcyds="0" />
+        <fg made="1" att="1" long="30" blkd="0" />
+        <pat kickatt="0" kickmade="0" />
+        <defense tackua="8" tacka="8" tot_tack="16" tflua="0" tfla="2" tflyds="4" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="1" td="0" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+      <qtrsummary vh="V" id="USM">
+        <firstdowns no="4" rush="1" pass="2" penalty="1" />
+        <penalties no="1" yds="5" />
+        <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="07:05" />
+        <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="6" yds="16" gain="16" loss="0" td="0" long="9" />
+        <pass comp="6" att="9" int="0" yds="34" td="0" long="10" sacks="0" sackyds="0" />
+        <rcv no="6" yds="34" td="0" long="10" />
+        <punt no="1" yds="47" long="47" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="47" />
+        <ko no="1" yds="65" ob="0" tb="1" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="0" kickmade="0" />
+        <defense tackua="8" tacka="8" tot_tack="16" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="0" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="0" td="0" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+    </qtr>
+    <qtr number="2" text="2nd">
+      <play hasball="USM" down="2" togo="4" spot="USM50" context="V,2,4,V50" playid="4,7,47" type="#" tokens="Q:2 T:15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,4,V50" />
+      <play hasball="USM" down="2" togo="4" spot="USM50" context="V,2,4,V50" playid="4,8,48" type="P" tokens="PASS:1Q,I,1,*,RE BRUP:0W" text="No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Brownlee,Jason broken up by Williams,James." newcontext="V,3,4,V50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Brownlee,Jason" />
+        <p_bu vh="H" name="Williams,James" />
+      </play>
+      <play hasball="USM" down="3" togo="4" spot="USM50" context="V,3,4,V50" playid="4,9,49" type="P" first="P" tokens="PASS:1Q,C,3,H32,MI TACK:6C" text="No Huddle-Shotgun Wilcke,Zach pass complete deep middle to Gore,Frank for 18 yards to the MIA32 (Curtis,Malik), 1ST DOWN." newcontext="V,1,10,H32">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Gore,Frank" gain="18" />
+        <p_tk vh="H" name="Curtis,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA32" context="V,1,10,H32" playid="4,10,50" type="P" first="P" score="Y" vscore="6" hscore="3" clock="14:30" tokens="PASS:1Q,C,1,H00,LE T:14:30" text="No Huddle-Shotgun Wilcke,Zach pass complete deep left to Brownlee,Jason for 32 yards to the MIA00 TOUCHDOWN, clock 14:30, 1ST DOWN." newcontext="V,1,10,H03">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="32" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA3" context="V,1,10,H03" playid="4,11,51" type="X" score="Y" vscore="7" hscore="3" tokens="PAT:K,40,G" text="Bourgeois,Briggs kick attempt good (H: Hopkins,Tyrese, LS: Harvey,T.J.)." newcontext="V,1,10,V35">
+        <p_pat vh="V" name="Bourgeois,Briggs" type="K" qb="Bourgeois,Briggs" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="3" />
+      <drivesum plays="6" yards="75" top="02:09" driveindex="4" />
+      <play hasball="USM" down="1" togo="10" spot="USM35" context="V,1,10,V35" playid="4,12,52" type="K" clock="14:30" tokens="KO:40,H00 TB:" text="Bourgeois,Briggs kickoff 65 yards to the MIA00, Touchback." newcontext="H,1,10,H25">
+        <p_ko vh="V" name="Bourgeois,Briggs" gain="65" result="T" />
+      </play>
+      <drivestart vh="H" spot="H25" clock="14:30" driveIndex="5,53" poss="H,H25,14:30" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA25" context="H,1,10,H25" playid="5,1,53" type="#" clock="14:30" tokens="{DRIVE}:14:30" text="Miami (FL) drive start at 14:30." newcontext="H,1,10,H25" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA25" context="H,1,10,H25" playid="5,2,54" type="R" tokens="RUSH:21,H26,RE TACK:35,96" text="No Huddle-Shotgun Parrish Jr.,Henry rush right for 1 yard gain to the MIA26 (Newsome,T.Q.; Williams,Jalen)." newcontext="H,2,9,H26">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="1" />
+        <p_tk vh="V" name="Newsome,T.Q." sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="9" spot="MIA26" context="H,2,9,H26" playid="5,3,55" type="P" first="P" tokens="PASS:9,C,7,H50,RE TACK:0D" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep right to Restrepo,Xavier for 24 yards to the MIA50 (Brooks,Natrone), 1ST DOWN." newcontext="H,1,10,V50">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="24" />
+        <p_tk vh="V" name="Brooks,Natrone" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM50" context="H,1,10,V50" playid="5,4,56" type="P" ob="Y" tokens="PASS:9,C,80,V45,LE OB: TACK:2D" text="No Huddle-Shotgun Van Dyke,Tyler pass complete short left to Arroyo,Elijah for 5 yards to the USM45 (Scott,Eric), out of bounds." newcontext="H,2,5,V45">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Arroyo,Elijah" gain="5" />
+        <p_tk vh="V" name="Scott,Eric" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="5" spot="USM45" context="H,2,5,V45" playid="5,5,57" type="R" tokens="RUSH:21,V43,MI TACK:99" text="No Huddle-Shotgun Parrish Jr.,Henry rush middle for 2 yards gain to the USM43 (Mahaffey,Jordyn)." newcontext="H,3,3,V43">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="2" />
+        <p_tk vh="V" name="Mahaffey,Jordyn" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="3" spot="USM43" context="H,3,3,V43" playid="5,6,58" type="R" first="P" tokens="RUSH:4,V39,LE TACK:2D" text="No Huddle-Shotgun Knighton,Jaylan rush left for 4 yards gain to the USM39 (Scott,Eric), 1ST DOWN." newcontext="H,1,10,V39">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="4" />
+        <p_tk vh="V" name="Scott,Eric" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM39" context="H,1,10,V39" playid="5,7,59" type="P" tokens="PASS:9,C,7,V33,MI TACK:9D" text="No Huddle-Shotgun Van Dyke,Tyler pass complete short middle to Restrepo,Xavier for 6 yards to the USM33 (Shorts,Malik)." newcontext="H,2,4,V33">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="6" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="4" spot="USM33" context="H,2,4,V33" playid="5,8,60" type="R" tokens="RUSH:4,V33,MI TACK:29" text="No Huddle-Shotgun Knighton,Jaylan rush middle for 0 yards to the USM33 (Harrell,Camron)." newcontext="H,3,4,V33">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="0" />
+        <p_tk vh="V" name="Harrell,Camron" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="4" spot="USM33" context="H,3,4,V33" playid="5,9,61" type="#" clock="11:04" tokens="TOUT:V T:11:04" text="Timeout Southern Miss., clock 11:04." newcontext="H,3,4,V33">
+        <p_to vh="V" team="Southern Miss." />
+      </play>
+      <play hasball="MIA" down="3" togo="4" spot="USM33" context="H,3,4,V33" playid="5,10,62" type="P" clock="10:55" tokens="PASS:9,I,4,*,LE T:10:55" text="(10:55) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short left to Knighton,Jaylan." newcontext="H,4,4,V33">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Knighton,Jaylan" />
+      </play>
+      <play hasball="MIA" down="4" togo="4" spot="USM33" context="H,4,4,V33" playid="5,11,63" type="P" turnover="I" clock="10:48" ob="Y" tokens="PASS:9,X,9D,V16,RE RET:9D,V32 OB:" text="(10:53) No Huddle-Shotgun Van Dyke,Tyler pass intercepted by Shorts,Malik at USM16 Shorts,Malik return 16 yards to the USM32, out of bounds at USM32." newcontext="V,1,10,V32">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INT" />
+        <p_ir vh="V" name="Shorts,Malik" gain="16" at="V16" />
+      </play>
+      <drivesum plays="9" yards="42" top="03:42" driveindex="5" />
+      <drivestart vh="V" spot="V32" clock="10:48" driveIndex="6,64" poss="V,V32,10:48" />
+      <play hasball="USM" down="1" togo="10" spot="USM32" context="V,1,10,V32" playid="6,1,64" type="#" clock="10:48" tokens="{DRIVE}:10:48" text="Southern Miss. drive start at 10:48." newcontext="V,1,10,V32" />
+      <play hasball="USM" down="1" togo="10" spot="USM32" context="V,1,10,V32" playid="6,2,65" type="R" clock="10:27" tokens="RUSH:8R,V32,LE TACK:7S,2S T:10:27" text="(10:48) No Huddle-Shotgun Dean,Janari rush left for 0 yards to the USM32 (Steed,Waynmon; Stevenson,Tyrique)." newcontext="V,2,10,V32">
+        <p_ru vh="V" name="Dean,Janari" gain="0" />
+        <p_tk vh="H" name="Steed,Waynmon" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Stevenson,Tyrique" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="2" togo="10" spot="USM32" context="V,2,10,V32" playid="6,3,66" type="P" first="P" clock="09:58" ob="Y" tokens="PASS:1Q,C,0,H32,RE OB: TACK:8I T:09:58" text="(10:10) No Huddle-Shotgun Wilcke,Zach pass complete deep right to Jones,Demarcus for 36 yards to the MIA32 (Ivey,DJ), out of bounds, 1ST DOWN. The previous play is under review. The ruling on the field stands." newcontext="V,1,10,H32">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Jones,Demarcus" gain="36" />
+        <p_tk vh="H" name="Ivey,DJ" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA32" context="V,1,10,H32" playid="6,4,67" type="E" clock="09:34" tokens="PASS:1Q,C,1,H32,MI PEN:V,ID,A,60,H37,N NOPLAY: &#xD;&#xA;D:1,15T:09:34" text="(09:42) No Huddle-Shotgun Wilcke,Zach pass complete short middle to Brownlee,Jason for 0 yards to the MIA32 PENALTY USM Ineligible Downfield on Pass (Wright,Coker) 5 yards from MIA32 to MIA37. NO PLAY." newcontext="V,1,15,H37">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="0" />
+        <p_pn vh="V" name="Wright,Coker" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="H32" yards="5" />
+      </play>
+      <play hasball="USM" down="1" togo="15" spot="MIA37" context="V,1,15,H37" playid="6,5,68" type="P" clock="09:16" tokens="PASS:1Q,S,TM,H45 SACK:5L, T:09:16" text="(09:26) No Huddle-Shotgun Wilcke,Zach sacked for loss of 8 yards to the MIA45 (Lichtenstein,Jacob)." newcontext="V,2,23,H45">
+        <p_pa vh="V" qb="Wilcke,Zach" result="SACK" gain="-8" />
+        <p_tk vh="H" name="Lichtenstein,Jacob" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="23" spot="MIA45" context="V,2,23,H45" playid="6,6,69" type="R" clock="08:27" tokens="RUSH:3,H41,MI TACK:1F,91 T:08:27" text="(08:42) No Huddle-Shotgun Gore,Frank rush middle for 4 yards gain to the MIA41 (Flagg, Jr.,Corey; Miller,Jordan)." newcontext="V,3,19,H41">
+        <p_ru vh="V" name="Gore,Frank" gain="4" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Miller,Jordan" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="3" togo="19" spot="MIA41" context="V,3,19,H41" playid="6,7,70" type="R" clock="07:47" ob="Y" tokens="RUSH:1Q,H39,RE OB: TACK:1F T:07:47" text="(08:01) No Huddle-Shotgun Wilcke,Zach rush right for 2 yards gain to the MIA39 (Flagg, Jr.,Corey), out of bounds." newcontext="V,4,17,H39">
+        <p_ru vh="V" name="Wilcke,Zach" gain="2" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="4" togo="17" spot="MIA39" context="V,4,17,H39" playid="6,8,71" type="U" clock="07:13" tokens="PUNT:6P,H23" text="(07:22) Hunt,Mason punt 16 yards to the MIA23." newcontext="H,1,10,H23">
+        <p_pu vh="V" name="Hunt,Mason" gain="16" in20="N" tb="N" ob="N" />
+      </play>
+      <drivesum plays="5" yards="29" top="03:35" driveindex="6" />
+      <drivestart vh="H" spot="H23" clock="07:13" driveIndex="7,72" poss="H,H23,07:13" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA23" context="H,1,10,H23" playid="7,1,72" type="#" clock="07:13" tokens="{DRIVE}:07:13" text="Miami (FL) drive start at 07:13." newcontext="H,1,10,H23" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA23" context="H,1,10,H23" playid="7,2,73" type="E" first="E" clock="07:07" tokens="RUSH:22,H27,LE TACK:46,97 PEN:V,FM,A,97,H42,1 &#xD;&#xA;D:1,10T:07:07" text="(07:13) No Huddle-Shotgun Franklin, Jr.,Thad rush left for 4 yards gain to the MIA27 (Habas,Averie; Cooley,Armondous) PENALTY USM Face Mask (Cooley,Armondous) 15 yards from MIA27 to MIA42, 1ST DOWN." newcontext="H,1,10,H42">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="4" />
+        <p_tk vh="V" name="Habas,Averie" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Cooley,Armondous" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_pn vh="V" name="" code="FM" type="face mask" result="ACCEPT" at="H27" yards="15" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA42" context="H,1,10,H42" playid="7,3,74" type="P" clock="06:50" tokens="PASS:9,S,TM,H37 SACK:93, T:06:50" text="(06:56) No Huddle-Shotgun Van Dyke,Tyler sacked for loss of 5 yards to the MIA37 (Ratcliff,Josh)." newcontext="H,2,15,H37">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="SACK" gain="-5" />
+        <p_tk vh="V" name="Ratcliff,Josh" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="15" spot="MIA37" context="H,2,15,H37" playid="7,4,75" type="R" clock="06:06" ob="Y" tokens="RUSH:21,H40,LE OB: TACK:9D T:06:06" text="(06:20) No Huddle-Shotgun Parrish Jr.,Henry rush left for 3 yards gain to the MIA40 (Shorts,Malik), out of bounds." newcontext="H,3,12,H40">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="3" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="12" spot="MIA40" context="H,3,12,H40" playid="7,5,76" type="P" clock="05:37" tokens="PASS:9,S,TM,H35 SACK:95, T:05:37" text="(05:41) No Huddle-Shotgun Van Dyke,Tyler sacked for loss of 5 yards to the MIA35 (Bivens,Quentin)." newcontext="H,4,17,H35">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="SACK" gain="-5" />
+        <p_tk vh="V" name="Bivens,Quentin" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="4" togo="17" spot="MIA35" context="H,4,17,H35" playid="7,6,77" type="U" clock="04:45" tokens="PUNT:94,V23" text="(04:54) Hedley,Lou punt 42 yards to the USM23." newcontext="V,1,10,V23">
+        <p_pu vh="H" name="Hedley,Lou" gain="42" in20="N" tb="N" ob="N" />
+      </play>
+      <drivesum plays="4" yards="12" top="02:28" driveindex="7" />
+      <drivestart vh="V" spot="V23" clock="04:45" driveIndex="8,78" poss="V,V23,04:45" />
+      <play hasball="USM" down="1" togo="10" spot="USM23" context="V,1,10,V23" playid="8,1,78" type="#" clock="04:45" tokens="{DRIVE}:04:45" text="Southern Miss. drive start at 04:45." newcontext="V,1,10,V23" />
+      <play hasball="USM" down="1" togo="10" spot="USM23" context="V,1,10,V23" playid="8,2,79" type="R" clock="04:30" tokens="RUSH:1Q,V26,LE T:04:30" text="(04:44) No Huddle-Shotgun Wilcke,Zach rush left for 3 yards gain to the USM26, End Of Play." newcontext="V,2,7,V26">
+        <p_ru vh="V" name="Wilcke,Zach" gain="3" />
+      </play>
+      <play hasball="USM" down="2" togo="7" spot="USM26" context="V,2,7,V26" playid="8,3,80" type="R" clock="03:45" tokens="RUSH:3,V29,LE TACK:32,4S T:03:45" text="(04:06) No Huddle-Shotgun Gore,Frank rush left for 3 yards gain to the USM29 (Kelly,Nyjalik; Smith,Keontra)." newcontext="V,3,4,V29">
+        <p_ru vh="V" name="Gore,Frank" gain="3" />
+        <p_tk vh="H" name="Kelly,Nyjalik" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Smith,Keontra" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="3" togo="4" spot="USM29" context="V,3,4,V29" playid="8,4,81" type="P" clock="03:24" tokens="PASS:1Q,I,1,*,LE BRUP:2S QBH:H,44 T:03:24" text="(03:28) No Huddle-Shotgun Wilcke,Zach pass incomplete short left to Brownlee,Jason broken up by Stevenson,Tyrique QB hurried by Moultrie,Antonio." newcontext="V,4,4,V29">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Brownlee,Jason" />
+        <p_bu vh="H" name="Stevenson,Tyrique" />
+        <p_qbh vh="H" name="Moultrie,Antonio" />
+      </play>
+      <play hasball="USM" down="4" togo="4" spot="USM29" context="V,4,4,V29" playid="8,5,82" type="U" clock="03:12" tokens="PUNT:6P,H14" text="(03:20) Hunt,Mason punt 57 yards to the MIA14." newcontext="H,1,10,H14">
+        <p_pu vh="V" name="Hunt,Mason" gain="57" in20="Y" tb="N" ob="N" />
+      </play>
+      <drivesum plays="3" yards="6" top="01:33" driveindex="8" />
+      <drivestart vh="H" spot="H14" clock="03:12" driveIndex="9,83" poss="H,H14,03:12" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA14" context="H,1,10,H14" playid="9,1,83" type="#" clock="03:12" tokens="{DRIVE}:03:12" text="Miami (FL) drive start at 03:12." newcontext="H,1,10,H14" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA14" context="H,1,10,H14" playid="9,2,84" type="P" clock="03:05" tokens="PASS:9,I,7,*,LE QBH:V,93 T:03:05" text="(03:11) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short left to Restrepo,Xavier QB hurried by Ratcliff,Josh." newcontext="H,2,10,H14">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Restrepo,Xavier" />
+        <p_qbh vh="V" name="Ratcliff,Josh" />
+      </play>
+      <play hasball="MIA" down="2" togo="10" spot="MIA14" context="H,2,10,H14" playid="9,3,85" type="P" first="P" clock="02:51" tokens="PASS:9,C,7,H25,MI TACK:5D,6D T:02:51" text="(03:05) No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Restrepo,Xavier for 11 yards to the MIA25 (Jones,Jay; Latham,Santrell), 1ST DOWN." newcontext="H,1,10,H25">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="11" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Latham,Santrell" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA25" context="H,1,10,H25" playid="9,4,86" type="R" clock="02:16" tokens="RUSH:4,H31,MI TACK:96 T:02:16" text="No Huddle-Shotgun Knighton,Jaylan rush middle for 6 yards gain to the MIA31 (Williams,Jalen)." newcontext="H,2,4,H31">
+        <p_ru vh="H" name="Knighton,Jaylan" gain="6" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="4" spot="MIA31" context="H,2,4,H31" playid="9,5,87" type="P" first="P" clock="01:54" tokens="PASS:9,C,83,H47,MI TACK:5D T:01:54" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Redding III,Michael for 16 yards to the MIA47 (Jones,Jay), 1ST DOWN." newcontext="H,1,10,H47">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Redding III,Michael" gain="16" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA47" context="H,1,10,H47" playid="9,6,88" type="P" clock="01:22" tokens="PASS:9,S,TM,H45 SACK:46, T:01:22" text="(01:34) No Huddle-Shotgun Van Dyke,Tyler sacked for loss of 2 yards to the MIA45 (Habas,Averie)." newcontext="H,2,12,H45">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="SACK" gain="-2" />
+        <p_tk vh="V" name="Habas,Averie" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="12" spot="MIA45" context="H,2,12,H45" playid="9,7,89" type="#" clock="01:22" tokens="TOUT:H T:01:22" text="Timeout Miami (FL), clock 01:22." newcontext="H,2,12,H45">
+        <p_to vh="H" team="Miami (FL)" />
+      </play>
+      <play hasball="MIA" down="2" togo="12" spot="MIA45" context="H,2,12,H45" playid="9,8,90" type="P" clock="01:05" tokens="PASS:9,C,7,H50,RE TACK:2D T:01:05" text="(01:21) No Huddle-Shotgun Van Dyke,Tyler pass complete short right to Restrepo,Xavier for 5 yards to the MIA50 (Scott,Eric)." newcontext="H,3,7,H50">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="5" />
+        <p_tk vh="V" name="Scott,Eric" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="7" spot="MIA50" context="H,3,7,H50" playid="9,9,91" type="#" clock="01:03" tokens="TOUT:V T:01:03" text="Timeout Southern Miss., clock 01:03." newcontext="H,3,7,H50">
+        <p_to vh="V" team="Southern Miss." />
+      </play>
+      <play hasball="MIA" down="3" togo="7" spot="MIA50" context="H,3,7,H50" playid="9,10,92" type="E" tokens="PASS:9,I,5,*,LE BRUP:14 PEN:V,OD,A,45,V45,N NOPLAY: &#xD;&#xA;D:3,2" text="No Huddle-Shotgun Van Dyke,Tyler pass incomplete short left to Smith,Key'Shawn broken up by Rutherford,J.D. PENALTY USM Offside (Carr,Josh) 5 yards from MIA50 to USM45. NO PLAY." newcontext="H,3,2,V45">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Smith,Key'Shawn" />
+        <p_pn vh="V" name="" code="OS" type="offside" result="ACCEPT" at="H50" yards="5" />
+        <p_bu vh="V" name="Rutherford,J.D." />
+      </play>
+      <play hasball="MIA" down="3" togo="2" spot="USM45" context="H,3,2,V45" playid="9,11,93" type="R" first="P" clock="00:24" tokens="RUSH:21,V30,RE TACK:93 T:00:24" text="(00:24) No Huddle-Shotgun Parrish Jr.,Henry rush right for 15 yards gain to the USM30 (Ratcliff,Josh), 1ST DOWN." newcontext="H,1,10,V30">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="15" />
+        <p_tk vh="V" name="Ratcliff,Josh" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM30" context="H,1,10,V30" playid="9,12,94" type="P" first="P" clock="00:20" tokens="PASS:9,C,12,V19,MI T:00:20" text="(00:24) No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Smith,Brashard for 11 yards to the USM19, End Of Play, 1ST DOWN." newcontext="H,1,10,V19">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Smith,Brashard" gain="11" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM19" context="H,1,10,V19" playid="9,13,95" type="P" first="P" clock="00:20" tokens="PASS:9,C,0,V01,RE TACK:9D,2D T:00:20" text="(00:20) No Huddle-Shotgun Van Dyke,Tyler pass complete deep right to Brinson,Romello for 18 yards to the USM01 (Shorts,Malik; Scott,Eric), 1ST DOWN." newcontext="H,1,1,V01">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Brinson,Romello" gain="18" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Scott,Eric" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="1" spot="USM1" context="H,1,1,V01" playid="9,14,96" type="R" score="Y" vscore="7" hscore="9" clock="00:20" tokens="RUSH:21,V00,MI T:00:20" text="(00:20) No Huddle-Shotgun Parrish Jr.,Henry rush middle for 1 yard gain to the USM00 TOUCHDOWN, clock 00:20." newcontext="H,1,10,V03">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="1" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM3" context="H,1,10,V03" playid="9,15,97" type="X" score="Y" vscore="7" hscore="10" tokens="PAT:K,30,G" text="Borregales,Andres kick attempt good (H: Hedley,Lou, LS: Napper,Mason)." newcontext="H,1,10,H35">
+        <p_pat vh="H" name="Borregales,Andres" type="K" qb="Borregales,Andres" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="10" />
+      <drivesum plays="10" yards="86" top="02:52" driveindex="9" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="9,16,98" type="E" clock="00:00" tokens="KO:30,V00 RET:29,V12 TACK:1C,4K PEN:V,BL,A,TM,V06,N &#xD;&#xA;D:1,10" text="Borregales,Andres kickoff 65 yards to the USM00 Harrell,Camron return 12 yards to the USM12 (Smith,Chase; Kinchens,Kamren) PENALTY USM Illegal Block in Back 6 yards from USM12 to USM06." newcontext="V,1,10,V06">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="" />
+        <p_kr vh="V" name="Harrell,Camron" gain="12" />
+        <p_tk vh="H" name="Smith,Chase" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Kinchens,Kamren" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_pn vh="V" code="BL" type="illegal block" result="ACCEPT" at="V12" yards="6" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="9,17,99" type="#" tokens="SPOT:V,V06,Y" text="USM ball on USM6." newcontext="V,1,10,V06" />
+      <score V="7" H="10" final="Y" />
+      <endqtr />
+      <qtrsummary vh="H" id="MIA">
+        <firstdowns no="8" rush="2" pass="5" penalty="1" />
+        <penalties no="0" yds="0" />
+        <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1" />
+        <misc yds="0" top="09:02" />
+        <redzone att="1" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="12" yds="24" gain="36" loss="12" td="1" long="15" />
+        <pass comp="8" att="11" int="1" yds="96" td="0" long="24" sacks="3" sackyds="12" />
+        <rcv no="8" yds="96" td="0" long="24" />
+        <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42" />
+        <ko no="1" yds="65" ob="0" tb="0" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="1" kickmade="1" />
+        <defense tackua="4" tacka="8" tot_tack="12" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8" ff="0" fr="0" fryds="0" brup="2" int="0" intyds="0" qbh="1" blkd="0" saf="0" sacka="0" sackua="1" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="0" td="1" patkick="1" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+      <qtrsummary vh="V" id="USM">
+        <firstdowns no="3" rush="0" pass="3" penalty="0" />
+        <penalties no="4" yds="31" />
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="05:58" />
+        <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="6" yds="4" gain="12" loss="8" td="0" long="4" />
+        <pass comp="3" att="5" int="0" yds="86" td="1" long="36" sacks="1" sackyds="8" />
+        <rcv no="3" yds="86" td="1" long="36" />
+        <punt no="2" yds="73" long="57" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="36.5" />
+        <ko no="1" yds="65" ob="0" tb="1" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="1" kickmade="1" />
+        <defense tackua="14" tacka="8" tot_tack="22" tflua="3" tfla="0" tflyds="12" sacks="3" sackyds="12" ff="0" fr="0" fryds="0" brup="0" int="1" intyds="16" qbh="1" blkd="0" saf="0" sacka="0" sackua="3" />
+        <kr no="1" yds="12" td="0" long="12" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="1" yds="16" td="0" long="16" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="0" td="1" patkick="1" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+    </qtr>
+    <qtr number="3" text="3rd">
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="9,18,100" type="#" tokens="CMT: USM will receive&#xD;&#xA;CMT: MIA will defend West end-zone&#xD;&#xA;" text="USM will receive; MIA will defend West end-zone." newcontext="H,1,10,H35" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="9,19,101" type="#" tokens="Q:3 T:15:00 SPOT:H,H35,N" text="Start of 3rd quarter, clock 15:00." newcontext="H,1,10,H35" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="9,20,102" type="K" clock="15:00" tokens="KO:30,V00 TB:" text="Borregales,Andres kickoff 65 yards to the USM00, Touchback." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="T" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="15:00" driveIndex="10,103" poss="V,V25,15:00" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="10,1,103" type="#" clock="15:00" tokens="{DRIVE}:15:00" text="Southern Miss. drive start at 15:00." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="10,2,104" type="R" clock="15:00" tokens="RUSH:1Q,V29,LE TACK:8I T:15:00" text="(15:00) No Huddle-Shotgun Wilcke,Zach rush left for 4 yards gain to the USM29 (Ivey,DJ)." newcontext="V,2,6,V29">
+        <p_ru vh="V" name="Wilcke,Zach" gain="4" />
+        <p_tk vh="H" name="Ivey,DJ" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="6" spot="USM29" context="V,2,6,V29" playid="10,3,105" type="P" clock="14:21" ob="Y" tokens="PASS:1Q,C,3,V24,LE OB: T:14:21" text="(10:46) No Huddle-Shotgun Wilcke,Zach pass complete short left to Gore,Frank for 5 yards loss to the USM24, out of bounds at USM24." newcontext="V,3,11,V24">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Gore,Frank" gain="-5" />
+      </play>
+      <play hasball="USM" down="3" togo="11" spot="USM24" context="V,3,11,V24" playid="10,4,106" type="R" clock="13:40" ob="Y" tokens="RUSH:1Q,V24,MI OB: T:13:40" text="(13:40) No Huddle-Shotgun Wilcke,Zach rush middle for 0 yards to the USM24, out of bounds at USM24." newcontext="V,4,11,V24">
+        <p_ru vh="V" name="Wilcke,Zach" gain="0" />
+      </play>
+      <play hasball="USM" down="4" togo="11" spot="USM24" context="V,4,11,V24" playid="10,5,107" type="U" clock="13:21" tokens="PUNT:6P,H13 RET:2S,H23 TACK:9D" text="Hunt,Mason punt 63 yards to the MIA13 Stevenson,Tyrique return 10 yards to the MIA23 (Shorts,Malik)." newcontext="H,1,10,H23">
+        <p_pu vh="V" name="Hunt,Mason" gain="63" in20="N" tb="N" ob="N" />
+        <p_pr vh="H" name="Stevenson,Tyrique" gain="10" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <drivesum plays="3" yards="-1" top="01:39" driveindex="10" />
+      <drivestart vh="H" spot="H23" clock="13:21" driveIndex="11,108" poss="H,H23,13:21" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA23" context="H,1,10,H23" playid="11,1,108" type="#" clock="13:21" tokens="{DRIVE}:13:21" text="Miami (FL) drive start at 13:21." newcontext="H,1,10,H23" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA23" context="H,1,10,H23" playid="11,2,109" type="R" clock="13:21" tokens="RUSH:21,H29,MI TACK:9D T:13:21" text="(13:21) No Huddle-Shotgun Parrish Jr.,Henry rush middle for 6 yards gain to the MIA29 (Shorts,Malik)." newcontext="H,2,4,H29">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="6" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="4" spot="MIA29" context="H,2,4,H29" playid="11,3,110" type="R" first="P" clock="12:27" tokens="RUSH:21,H36,MI TACK:9D,21 T:12:27" text="No Huddle-Shotgun Parrish Jr.,Henry rush middle for 7 yards gain to the MIA36 (Shorts,Malik; Stanley,Jay), 1ST DOWN." newcontext="H,1,10,H36">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="7" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Stanley,Jay" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA36" context="H,1,10,H36" playid="11,4,111" type="R" clock="11:54" tokens="RUSH:21,H40,LE TACK:6D,93 T:11:54" text="(11:54) No Huddle-Shotgun Parrish Jr.,Henry rush left for 4 yards gain to the MIA40 (Latham,Santrell; Ratcliff,Josh)." newcontext="H,2,6,H40">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="4" />
+        <p_tk vh="V" name="Latham,Santrell" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Ratcliff,Josh" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="6" spot="MIA40" context="H,2,6,H40" playid="11,5,112" type="R" first="P" clock="11:37" tokens="RUSH:22,H46,MI TACK:6D,9D T:11:37" text="No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 6 yards gain to the MIA46 (Latham,Santrell; Shorts,Malik), 1ST DOWN." newcontext="H,1,10,H46">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="6" />
+        <p_tk vh="V" name="Latham,Santrell" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA46" context="H,1,10,H46" playid="11,6,113" type="P" clock="10:15" tokens="PASS:9,C,22,V47,RE TACK:31 T:10:15" text="No Huddle-Shotgun Van Dyke,Tyler pass complete short right to Franklin, Jr.,Thad for 7 yards to the USM47 (Gill,Daylen)." newcontext="H,2,3,V47">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Franklin, Jr.,Thad" gain="7" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="3" spot="USM47" context="H,2,3,V47" playid="11,7,114" type="R" first="P" clock="09:58" tokens="RUSH:22,V41,MI TACK:31 T:09:58" text="No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 6 yards gain to the USM41 (Gill,Daylen), 1ST DOWN." newcontext="H,1,10,V41">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="6" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM41" context="H,1,10,V41" playid="11,8,115" type="R" clock="09:30" tokens="RUSH:22,V39,MI TACK:31,96 T:09:30" text="(09:30) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 2 yards gain to the USM39 (Gill,Daylen; Williams,Jalen)." newcontext="H,2,8,V39">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="2" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="8" spot="USM39" context="H,2,8,V39" playid="11,9,116" type="P" first="P" clock="08:56" ob="Y" tokens="PASS:9,C,7,V27,LE OB: TACK:28 T:08:56" text="(08:56) No Huddle-Shotgun Van Dyke,Tyler pass complete deep left to Restrepo,Xavier for 12 yards to the USM27 (Bozeman,Swayze), out of bounds, 1ST DOWN." newcontext="H,1,10,V27">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="12" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM27" context="H,1,10,V27" playid="11,10,117" type="R" clock="08:43" tokens="RUSH:21,V19,LE TACK:3D,5D T:08:43" text="(08:43) No Huddle-Shotgun Parrish Jr.,Henry rush left for 8 yards gain to the USM19 (Knight,Tylan; Jones,Jay)." newcontext="H,2,2,V19">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="8" />
+        <p_tk vh="V" name="Knight,Tylan" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="2" spot="USM19" context="H,2,2,V19" playid="11,11,118" type="E" clock="08:35" tokens="PASS:9,I,5,*,RE PEN:H,PF,A,74,V34,N NOPLAY: &#xD;&#xA;D:2,17T:08:35" text="(08:35) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short right to Smith,Key'Shawn PENALTY MIA UNR: Unnecessary Roughness (Campbell, Jr.,John) 15 yards from USM19 to USM34. NO PLAY." newcontext="H,2,17,V34">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Smith,Key'Shawn" />
+        <p_pn vh="H" name="Campbell, Jr.,John" code="PF" type="personal foul" result="ACCEPT" at="V19" yards="15" />
+      </play>
+      <play hasball="MIA" down="2" togo="17" spot="USM34" context="H,2,17,V34" playid="11,12,119" type="P" clock="08:01" tokens="PASS:9,C,21,V22,LE TACK:93 T:08:01" text="(08:01) No Huddle-Shotgun Van Dyke,Tyler pass complete deep left to Parrish Jr.,Henry for 12 yards to the USM22 (Ratcliff,Josh)." newcontext="H,3,5,V22">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Parrish Jr.,Henry" gain="12" />
+        <p_tk vh="V" name="Ratcliff,Josh" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="5" spot="USM22" context="H,3,5,V22" playid="11,13,120" type="R" first="P" clock="07:46" tokens="RUSH:21,V10,LE TACK:9D T:07:46" text="No Huddle-Shotgun Parrish Jr.,Henry rush left for 12 yards gain to the USM10 (Shorts,Malik), 1ST DOWN." newcontext="H,1,10,V10">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="12" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM10" context="H,1,10,V10" playid="11,14,121" type="R" clock="07:25" tokens="RUSH:22,V07,MI TACK:28 T:07:25" text="(07:25) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 3 yards gain to the USM07 (Bozeman,Swayze)." newcontext="H,2,7,V07">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="3" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="7" spot="USM7" context="H,2,7,V07" playid="11,15,122" type="R" first="P" score="Y" vscore="7" hscore="16" clock="07:10" tokens="RUSH:22,V00,MI T:07:10" text="No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 7 yards gain to the USM00 TOUCHDOWN, clock 07:10, 1ST DOWN." newcontext="H,1,10,V03">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="7" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM3" context="H,1,10,V03" playid="11,16,123" type="X" score="Y" vscore="7" hscore="17" tokens="PAT:K,30,G" text="Borregales,Andres kick attempt good (H: Hedley,Lou, LS: Napper,Mason)." newcontext="H,1,10,H35">
+        <p_pat vh="H" name="Borregales,Andres" type="K" qb="Borregales,Andres" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="17" />
+      <drivesum plays="13" yards="77" top="06:11" driveindex="11" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="11,17,124" type="K" clock="07:10" tokens="KO:30,V00 TB:" text="Borregales,Andres kickoff 65 yards to the USM00, Touchback." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="T" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="07:10" driveIndex="12,125" poss="V,V25,07:10" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="12,1,125" type="#" clock="07:10" tokens="{DRIVE}:07:10" text="Southern Miss. drive start at 07:10." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="12,2,126" type="R" clock="06:10" tokens="RUSH:3,V22,LE TACK:56 T:06:10" text="(07:10) No Huddle-Shotgun Gore,Frank rush left for 3 yards loss to the USM22 (Taylor,Leonard)." newcontext="V,2,13,V22">
+        <p_ru vh="V" name="Gore,Frank" gain="-3" />
+        <p_tk vh="H" name="Taylor,Leonard" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="13" spot="USM22" context="V,2,13,V22" playid="12,3,127" type="P" clock="05:58" tokens="PASS:1Q,S,TM,V13 SACK:56, T:05:58" text="(05:58) No Huddle-Shotgun Wilcke,Zach sacked for loss of 9 yards to the USM13 (Taylor,Leonard)." newcontext="V,3,22,V13">
+        <p_pa vh="V" qb="Wilcke,Zach" result="SACK" gain="-9" />
+        <p_tk vh="H" name="Taylor,Leonard" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="3" togo="22" spot="USM13" context="V,3,22,V13" playid="12,4,128" type="P" clock="05:20" tokens="PASS:1Q,C,8R,V24,RE TACK:0W,7B T:05:20" text="(05:20) No Huddle-Shotgun Wilcke,Zach pass complete deep right to Dean,Janari for 11 yards to the USM24 (Williams,James; Blades, Jr.,Al)." newcontext="V,4,11,V24">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Dean,Janari" gain="11" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Blades, Jr.,Al" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="USM" down="4" togo="11" spot="USM24" context="V,4,11,V24" playid="12,5,129" type="U" clock="05:02" tokens="PUNT:6P,H35 RET:2S,V35 TACK:9D" text="(05:02) Hunt,Mason punt 41 yards to the MIA35 Stevenson,Tyrique return 30 yards to the USM35 (Shorts,Malik)." newcontext="H,1,10,V35">
+        <p_pu vh="V" name="Hunt,Mason" gain="41" in20="N" tb="N" ob="N" />
+        <p_pr vh="H" name="Stevenson,Tyrique" gain="30" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <drivesum plays="3" yards="-1" top="02:08" driveindex="12" />
+      <drivestart vh="H" spot="V35" clock="05:02" driveIndex="13,130" poss="H,V35,05:02" />
+      <play hasball="MIA" down="1" togo="10" spot="USM35" context="H,1,10,V35" playid="13,1,130" type="#" clock="05:02" tokens="{DRIVE}:05:02" text="Miami (FL) drive start at 05:02." newcontext="H,1,10,V35" />
+      <play hasball="MIA" down="1" togo="10" spot="USM35" context="H,1,10,V35" playid="13,2,131" type="P" first="P" score="Y" vscore="7" hscore="23" clock="05:02" tokens="PASS:9,C,5,V00,MI T:05:02" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Smith,Key'Shawn for 35 yards to the USM00 TOUCHDOWN, clock 05:02, 1ST DOWN." newcontext="H,1,10,V03">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Smith,Key'Shawn" gain="35" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM3" context="H,1,10,V03" playid="13,3,132" type="X" score="Y" vscore="7" hscore="24" tokens="PAT:K,30,G" text="Borregales,Andres kick attempt good (H: Hedley,Lou, LS: Napper,Mason)." newcontext="H,1,10,H35">
+        <p_pat vh="H" name="Borregales,Andres" type="K" qb="Borregales,Andres" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="24" />
+      <drivesum plays="1" yards="35" top="00:00" driveindex="13" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="13,4,133" type="K" clock="04:56" tokens="KO:30,V00 TB:" text="Borregales,Andres kickoff 65 yards to the USM00, Touchback." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="T" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="04:56" driveIndex="14,134" poss="V,V25,04:56" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="14,1,134" type="#" clock="04:56" tokens="{DRIVE}:04:56" text="Southern Miss. drive start at 04:56." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="14,2,135" type="P" clock="04:51" tokens="PASS:1Q,I,2,*,RE T:04:51" text="(04:56) No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Pittman,Chandler." newcontext="V,2,10,V25">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Pittman,Chandler" />
+      </play>
+      <play hasball="USM" down="2" togo="10" spot="USM25" context="V,2,10,V25" playid="14,3,136" type="R" clock="04:32" tokens="RUSH:2,V24,RE TACK:1F T:04:32" text="(04:50) No Huddle-Shotgun Pittman,Chandler rush right for 1 yard loss to the USM24 (Flagg, Jr.,Corey)." newcontext="V,3,11,V24">
+        <p_ru vh="V" name="Pittman,Chandler" gain="-1" />
+        <p_tk vh="H" name="Flagg, Jr.,Corey" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="3" togo="11" spot="USM24" context="V,3,11,V24" playid="14,4,137" type="P" first="P" clock="04:01" tokens="PASS:1Q,C,1,V38,RE T:04:01" text="(04:14) No Huddle-Shotgun Wilcke,Zach pass complete deep right to Brownlee,Jason for 14 yards to the USM38, End Of Play, 1ST DOWN." newcontext="V,1,10,V38">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="14" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM38" context="V,1,10,V38" playid="14,5,138" type="P" first="P" clock="03:44" ob="Y" tokens="PASS:1Q,C,15,V50,LE OB: T:03:44" text="(03:50) No Huddle-Shotgun Wilcke,Zach pass complete deep left to Caston,Jakarius for 12 yards to the USM50, out of bounds at USM50, 1ST DOWN." newcontext="V,1,10,V50">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Caston,Jakarius" gain="12" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM50" context="V,1,10,V50" playid="14,6,139" type="P" first="P" clock="03:19" tokens="PASS:1Q,C,1,H17,RE TACK:3C T:03:19" text="(03:33) No Huddle-Shotgun Wilcke,Zach pass complete deep right to Brownlee,Jason for 33 yards to the MIA17 (Couch,Te'Cory), 1ST DOWN." newcontext="V,1,10,H17">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="33" />
+        <p_tk vh="H" name="Couch,Te'Cory" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA17" context="V,1,10,H17" playid="14,7,140" type="#" clock="03:19" tokens="TOUT:V T:03:19" text="Timeout Southern Miss., clock 03:19." newcontext="V,1,10,H17">
+        <p_to vh="V" team="Southern Miss." />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="MIA17" context="V,1,10,H17" playid="14,8,141" type="R" first="P" tokens="RUSH:1Q,H06,RE TACK:0W" text="No Huddle-Shotgun Wilcke,Zach rush right for 11 yards gain to the MIA06 (Williams,James), 1ST DOWN." newcontext="V,1,6,H06">
+        <p_ru vh="V" name="Wilcke,Zach" gain="11" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="6" spot="MIA6" context="V,1,6,H06" playid="14,9,142" type="P" turnover="I" clock="02:28" tokens="PASS:1Q,X,2S,H00,RE TB:" text="(02:28) No Huddle-Shotgun Wilcke,Zach pass intercepted by Stevenson,Tyrique at MIA00, Touchback." newcontext="H,1,10,H20">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INT" />
+        <p_ir vh="H" name="Stevenson,Tyrique" gain="0" at="H00" />
+      </play>
+      <drivesum plays="7" yards="69" top="02:28" driveindex="14" />
+      <drivestart vh="H" spot="H20" clock="02:28" driveIndex="15,143" poss="H,H20,02:28" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA20" context="H,1,10,H20" playid="15,1,143" type="#" clock="02:28" tokens="{DRIVE}:02:28" text="Miami (FL) drive start at 02:28." newcontext="H,1,10,H20" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA20" context="H,1,10,H20" playid="15,2,144" type="P" first="P" clock="02:06" ob="Y" tokens="PASS:9,C,83,H40,RE OB: T:02:06" text="(02:28) No Huddle-Shotgun Van Dyke,Tyler pass complete deep right to Redding III,Michael for 20 yards to the MIA40, out of bounds at MIA40, 1ST DOWN." newcontext="H,1,10,H40">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Redding III,Michael" gain="20" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="MIA40" context="H,1,10,H40" playid="15,3,145" type="R" clock="01:25" tokens="RUSH:21,H43,MI TACK:35,28 T:01:25" text="(01:53) No Huddle-Shotgun Parrish Jr.,Henry rush middle for 3 yards gain to the MIA43 (Newsome,T.Q.; Bozeman,Swayze)." newcontext="H,2,7,H43">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="3" />
+        <p_tk vh="V" name="Newsome,T.Q." sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="7" spot="MIA43" context="H,2,7,H43" playid="15,4,146" type="E" clock="01:10" ob="Y" tokens="PASS:9,C,21,H43,LE OB: PEN:H,HO,A,85,H35,N &#xD;&#xA;D:2,15T:01:10" text="No Huddle-Shotgun Van Dyke,Tyler pass complete short left to Parrish Jr.,Henry for 2 yards to the MIA45, out of bounds at USM47 PENALTY MIA Holding (Mallory,Will) 10 yards from MIA45 to MIA35." newcontext="H,2,15,H35">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Parrish Jr.,Henry" gain="2" />
+        <p_pn vh="H" name="Mallory,Will" code="HO" type="holding" result="ACCEPT" at="H45" yards="10" />
+      </play>
+      <play hasball="MIA" down="2" togo="15" spot="MIA35" context="H,2,15,H35" playid="15,5,147" type="P" clock="01:02" tokens="PASS:9,I,5,*,LE T:01:02" text="No Huddle-Shotgun Van Dyke,Tyler pass incomplete short left to Smith,Key'Shawn." newcontext="H,3,15,H35">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Smith,Key'Shawn" />
+      </play>
+      <play hasball="MIA" down="3" togo="15" spot="MIA35" context="H,3,15,H35" playid="15,6,148" type="P" clock="00:33" tokens="PASS:9,C,22,H46,LE TACK:7D T:00:33" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep left to Franklin, Jr.,Thad for 11 yards to the MIA46 (Quewon,Dominic)." newcontext="H,4,4,H46">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Franklin, Jr.,Thad" gain="11" />
+        <p_tk vh="V" name="Quewon,Dominic" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="4" togo="4" spot="MIA46" context="H,4,4,H46" playid="15,7,149" type="U" clock="00:11" tokens="PUNT:94,V12 FC:0D" text="Hedley,Lou punt 42 yards to the USM12 fair catch by Brooks,Natrone at USM12." newcontext="V,1,10,V12">
+        <p_pu vh="H" name="Hedley,Lou" gain="42" in20="Y" tb="N" ob="N" />
+      </play>
+      <drivesum plays="4" yards="24" top="02:17" driveindex="15" />
+      <drivestart vh="V" spot="V12" clock="00:11" driveIndex="16,150" poss="V,V12,00:11" />
+      <play hasball="USM" down="1" togo="10" spot="USM12" context="V,1,10,V12" playid="16,1,150" type="#" clock="00:11" tokens="{DRIVE}:00:11" text="Southern Miss. drive start at 00:11." newcontext="V,1,10,V12" />
+      <play hasball="USM" down="1" togo="10" spot="USM12" context="V,1,10,V12" playid="16,2,151" type="E" clock="00:11" tokens="PEN:V,FS,A,51,V07,N &#xD;&#xA;D:1,15T:00:11" text="PENALTY USM False Start (Mays,Briason) 5 yards from USM12 to USM07. NO PLAY." newcontext="V,1,15,V07">
+        <p_pn vh="V" name="Mays,Briason" code="FS" type="false start" result="ACCEPT" at="V12" yards="5" />
+      </play>
+      <play hasball="USM" down="1" togo="15" spot="USM7" context="V,1,15,V07" playid="16,3,152" type="P" clock="00:00" tokens="PASS:1Q,C,33,V13,RE TACK:3W,0W T:00:00" text="(00:11) No Huddle-Shotgun Wilcke,Zach pass complete short right to Cavallo,Cole for 6 yards to the USM13 (Williams,Chantz; Williams,James)." newcontext="V,2,9,V13">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Cavallo,Cole" gain="6" />
+        <p_tk vh="H" name="Williams,Chantz" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <score V="7" H="24" final="Y" />
+      <endqtr />
+      <qtrsummary vh="H" id="MIA">
+        <firstdowns no="8" rush="5" pass="3" penalty="0" />
+        <penalties no="2" yds="25" />
+        <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="08:28" />
+        <redzone att="1" scores="1" points="7" tdrush="1" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="11" yds="64" gain="64" loss="0" td="1" long="12" />
+        <pass comp="6" att="7" int="0" yds="97" td="1" long="35" sacks="0" sackyds="0" />
+        <rcv no="6" yds="97" td="1" long="35" />
+        <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="42" />
+        <ko no="3" yds="195" ob="0" tb="3" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="2" kickmade="2" />
+        <defense tackua="6" tacka="4" tot_tack="10" tflua="3" tfla="0" tflyds="13" sacks="1" sackyds="9" ff="0" fr="0" fryds="0" brup="0" int="1" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="2" yds="40" td="0" long="30" />
+        <ir no="1" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="0" td="2" patkick="2" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+      <qtrsummary vh="V" id="USM">
+        <firstdowns no="4" rush="1" pass="3" penalty="0" />
+        <penalties no="1" yds="5" />
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="06:32" />
+        <redzone att="1" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="1" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="6" yds="2" gain="15" loss="13" td="0" long="11" />
+        <pass comp="6" att="8" int="1" yds="71" td="0" long="33" sacks="1" sackyds="9" />
+        <rcv no="6" yds="71" td="0" long="33" />
+        <punt no="2" yds="104" long="63" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="52" />
+        <ko no="0" yds="0" ob="0" tb="0" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="0" kickmade="0" />
+        <defense tackua="10" tacka="12" tot_tack="22" tflua="0" tfla="0" tflyds="0" sacks="0" sackyds="0" ff="0" fr="0" fryds="0" brup="0" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="0" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="0" td="0" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+    </qtr>
+    <qtr number="4" text="4th">
+      <play hasball="USM" down="2" togo="9" spot="USM13" context="V,2,9,V13" playid="16,4,153" type="#" tokens="Q:4 T:15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,9,V13" />
+      <play hasball="USM" down="2" togo="9" spot="USM13" context="V,2,9,V13" playid="16,5,154" type="P" clock="14:58" tokens="PASS:1Q,I,1,*,MI BRUP:51 T:14:58" text="(11:31) No Huddle-Shotgun Wilcke,Zach pass incomplete short middle to Brownlee,Jason broken up by Scaife, Jr.,DJ." newcontext="V,3,9,V13">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Brownlee,Jason" />
+        <p_bu vh="H" name="Scaife, Jr.,DJ" />
+      </play>
+      <play hasball="USM" down="3" togo="9" spot="USM13" context="V,3,9,V13" playid="16,6,155" type="P" clock="14:51" tokens="PASS:1Q,I,15,*,LE T:14:51" text="(14:51) No Huddle-Shotgun Wilcke,Zach pass incomplete short left to Caston,Jakarius." newcontext="V,4,9,V13">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Caston,Jakarius" />
+      </play>
+      <play hasball="USM" down="4" togo="9" spot="USM13" context="V,4,9,V13" playid="16,7,156" type="U" clock="14:41" tokens="PUNT:6P,H41 FC:7" text="(14:41) Hunt,Mason punt 46 yards to the MIA41 fair catch by Restrepo,Xavier at MIA41." newcontext="H,1,10,H41">
+        <p_pu vh="V" name="Hunt,Mason" gain="46" in20="N" tb="N" ob="N" />
+      </play>
+      <drivesum plays="3" yards="1" top="00:30" driveindex="16" />
+      <drivestart vh="H" spot="H41" clock="14:41" driveIndex="17,157" poss="H,H41,14:41" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA41" context="H,1,10,H41" playid="17,1,157" type="#" clock="14:41" tokens="{DRIVE}:14:41" text="Miami (FL) drive start at 14:41." newcontext="H,1,10,H41" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA41" context="H,1,10,H41" playid="17,2,158" type="R" clock="14:41" tokens="RUSH:12,H48,RE TACK:9D T:14:41" text="(14:41) No Huddle-Shotgun Smith,Brashard rush right for 7 yards gain to the MIA48 (Shorts,Malik)." newcontext="H,2,3,H48">
+        <p_ru vh="H" name="Smith,Brashard" gain="7" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="3" spot="MIA48" context="H,2,3,H48" playid="17,3,159" type="R" first="P" clock="11:31" tokens="RUSH:22,V45,MI TACK:5D T:11:31" text="(11:31) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 7 yards gain to the USM45 (Jones,Jay), 1ST DOWN." newcontext="H,1,10,V45">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="7" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM45" context="H,1,10,V45" playid="17,4,160" type="R" clock="11:31" ob="Y" tokens="RUSH:9,V42,RE OB: T:11:31" text="(11:31) No Huddle-Shotgun Van Dyke,Tyler rush right for 3 yards gain to the USM42, out of bounds at USM42." newcontext="H,2,7,V42">
+        <p_ru vh="H" name="Van Dyke,Tyler" gain="3" />
+      </play>
+      <play hasball="MIA" down="2" togo="7" spot="USM42" context="H,2,7,V42" playid="17,5,161" type="R" first="P" clock="11:31" tokens="RUSH:22,V34,MI TACK:3D,9D T:11:31" text="(11:31) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 8 yards gain to the USM34 (Knight,Tylan; Shorts,Malik), 1ST DOWN." newcontext="H,1,10,V34">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="8" />
+        <p_tk vh="V" name="Knight,Tylan" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Shorts,Malik" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM34" context="H,1,10,V34" playid="17,6,162" type="R" clock="11:23" tokens="RUSH:21,V31,RE TACK:35 T:11:23" text="(11:31) No Huddle-Shotgun Parrish Jr.,Henry rush right for 3 yards gain to the USM31 (Newsome,T.Q.)." newcontext="H,2,7,V31">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="3" />
+        <p_tk vh="V" name="Newsome,T.Q." sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="7" spot="USM31" context="H,2,7,V31" playid="17,7,163" type="E" clock="11:00" tokens="PEN:H,FS,A,8,V36,N &#xD;&#xA;D:2,12T:11:00" text="PENALTY MIA False Start (Ladson Jr.,Frank) 5 yards from USM31 to USM36. NO PLAY." newcontext="H,2,12,V36">
+        <p_pn vh="H" name="Ladson Jr.,Frank" code="FS" type="false start" result="ACCEPT" at="V31" yards="5" />
+      </play>
+      <play hasball="MIA" down="2" togo="12" spot="USM36" context="H,2,12,V36" playid="17,8,164" type="E" clock="10:07" tokens="RUSH:21,V26,RE PEN:H,PF,A,53,V41,N &#xD;&#xA;D:2,17T:10:07" text="No Huddle-Shotgun Parrish Jr.,Henry rush right for 36 yards gain (10) to the USM00 TOUCHDOWN nullified by penalty, clock 10:07 PENALTY MIA Personal Foul (Clark,Jakai) 15 yards from USM26 to USM41." newcontext="H,2,17,V41">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="10" />
+        <p_pn vh="H" name="Clark,Jakai" code="PF" type="personal foul" result="ACCEPT" at="V26" yards="15" />
+      </play>
+      <play hasball="MIA" down="2" togo="17" spot="USM41" context="H,2,17,V41" playid="17,9,165" type="P" clock="09:15" tokens="PASS:9,C,7,V27,MI T:09:15" text="No Huddle-Shotgun Van Dyke,Tyler pass complete deep middle to Restrepo,Xavier for 14 yards to the USM27, End Of Play." newcontext="H,3,3,V27">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Restrepo,Xavier" gain="14" />
+      </play>
+      <play hasball="MIA" down="3" togo="3" spot="USM27" context="H,3,3,V27" playid="17,10,166" type="R" first="P" clock="09:11" tokens="RUSH:22,V19,MI TACK:2D T:09:11" text="(09:11) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 8 yards gain to the USM19 (Scott,Eric), 1ST DOWN." newcontext="H,1,10,V19">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="8" />
+        <p_tk vh="V" name="Scott,Eric" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM19" context="H,1,10,V19" playid="17,11,167" type="R" tokens="RUSH:22,V18,MI TACK:96" text="No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 1 yard gain to the USM18 (Williams,Jalen)." newcontext="H,2,9,V18">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="1" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="9" spot="USM18" context="H,2,9,V18" playid="17,12,168" type="R" clock="09:11" tokens="RUSH:21,V15,LE TACK:12,96 T:09:11" text="(09:11) No Huddle-Shotgun Parrish Jr.,Henry rush left for 3 yards gain to the USM15 (Caraway, Jr.,Micheal; Williams,Jalen)." newcontext="H,3,6,V15">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="3" />
+        <p_tk vh="V" name="Caraway, Jr.,Micheal" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="3" togo="6" spot="USM15" context="H,3,6,V15" playid="17,13,169" type="P" clock="09:11" tokens="PASS:9,I,83,*,MI BRUP:31 T:09:11" text="(09:11) No Huddle-Shotgun Van Dyke,Tyler pass incomplete short middle to Redding III,Michael broken up by Gill,Daylen." newcontext="H,4,6,V15">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="INC" rcv="Redding III,Michael" />
+        <p_bu vh="V" name="Gill,Daylen" />
+      </play>
+      <play hasball="MIA" down="4" togo="6" spot="USM15" context="H,4,6,V15" playid="17,14,170" type="F" score="Y" vscore="7" hscore="27" clock="09:11" tokens="FGA:30,33,G T:09:11" text="(09:11) Borregales,Andres field goal attempt from 33 yards GOOD (H: Hedley,Lou, LS: Napper,Mason), clock 09:11." newcontext="H,1,10,H35">
+        <p_fg vh="H" name="Borregales,Andres" distance="33" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="27" />
+      <drivesum plays="12" yards="44" top="05:30" driveindex="17" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="17,15,171" type="K" clock="09:11" tokens="KO:30,V00 TB:" text="Borregales,Andres kickoff 65 yards to the USM00, Touchback." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="65" result="T" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="09:11" driveIndex="18,172" poss="V,V25,09:11" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="18,1,172" type="#" clock="09:11" tokens="{DRIVE}:09:11" text="Southern Miss. drive start at 09:11." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="18,2,173" type="P" first="P" clock="09:06" tokens="PASS:1Q,C,1,V41,RE TACK:8I T:09:06" text="(09:11) No Huddle-Shotgun Wilcke,Zach pass complete deep right to Brownlee,Jason for 16 yards to the USM41 (Ivey,DJ), 1ST DOWN." newcontext="V,1,10,V41">
+        <p_pa vh="V" qb="Wilcke,Zach" result="COMP" rcv="Brownlee,Jason" gain="16" />
+        <p_tk vh="H" name="Ivey,DJ" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="1" togo="10" spot="USM41" context="V,1,10,V41" playid="18,3,174" type="R" clock="08:26" tokens="RUSH:3,V36,LE TACK:91 T:08:26" text="(08:50) No Huddle-Shotgun Gore,Frank rush left for 5 yards loss to the USM36 (Miller,Jordan)." newcontext="V,2,15,V36">
+        <p_ru vh="V" name="Gore,Frank" gain="-5" />
+        <p_tk vh="H" name="Miller,Jordan" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="15" spot="USM36" context="V,2,15,V36" playid="18,4,175" type="E" clock="08:08" tokens="PEN:H,OD,A,32,V41,N &#xD;&#xA;D:2,10T:08:08" text="PENALTY MIA Offside (Kelly,Nyjalik) 5 yards from USM36 to USM41. NO PLAY." newcontext="V,2,10,V41">
+        <p_pn vh="H" name="" code="OS" type="offside" result="ACCEPT" at="V36" yards="5" />
+      </play>
+      <play hasball="USM" down="2" togo="10" spot="USM41" context="V,2,10,V41" playid="18,5,176" type="E" clock="07:46" tokens="RUSH:3,V50,MI TACK:0W,4S PEN:V,HO,A,1,V40,N &#xD;&#xA;D:2,11T:07:46" text="(07:49) No Huddle-Shotgun Gore,Frank rush middle for 14 yards gain (9) to the MIA45 (Williams,James; Smith,Keontra) PENALTY USM Holding (Brownlee,Jason) 10 yards from MIA50 to USM40." newcontext="V,2,11,V40">
+        <p_ru vh="V" name="Gore,Frank" gain="9" />
+        <p_tk vh="H" name="Williams,James" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Smith,Keontra" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_pn vh="V" name="Brownlee,Jason" code="HO" type="holding" result="ACCEPT" at="H50" yards="10" />
+      </play>
+      <play hasball="USM" down="2" togo="11" spot="USM40" context="V,2,11,V40" playid="18,6,177" type="P" clock="07:33" tokens="PASS:1Q,I,17,*,RE BRUP:8I T:07:33" text="(07:37) No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Jones,Latreal broken up by Ivey,DJ." newcontext="V,3,11,V40">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Jones,Latreal" />
+        <p_bu vh="H" name="Ivey,DJ" />
+      </play>
+      <play hasball="USM" down="3" togo="11" spot="USM40" context="V,3,11,V40" playid="18,7,178" type="R" turnover="F" clock="07:24" tokens="RUSH:1Q,V44,RE FORCE:44 FUMB:H,V44,3W RET:3W,V44" text="(07:31) No Huddle-Shotgun Wilcke,Zach rush right for 4 yards gain to the USM44 fumbled by Wilcke,Zach at USM44 forced by Moultrie,Antonio recovered by MIA Williams,Chantz at USM44 Williams,Chantz return 0 yards to the USM44, End Of Play." newcontext="H,1,10,V44">
+        <p_ru vh="V" name="Wilcke,Zach" gain="4" />
+        <p_fr vh="H" name="Williams,Chantz" gain="0" />
+        <p_tk vh="H" name="Moultrie,Antonio" sack="N" tfl="N" ff="N" assist="N" />
+        <p_fumb vh="V" name="Wilcke,Zach" at="V44" frvh="H" frname="Williams,Chantz" />
+      </play>
+      <drivesum plays="5" yards="19" top="01:47" driveindex="18" />
+      <drivestart vh="H" spot="V44" clock="07:24" driveIndex="19,179" poss="H,V44,07:24" />
+      <play hasball="MIA" down="1" togo="10" spot="USM44" context="H,1,10,V44" playid="19,1,179" type="#" clock="07:24" tokens="{DRIVE}:07:24" text="Miami (FL) drive start at 07:24." newcontext="H,1,10,V44" />
+      <play hasball="MIA" down="1" togo="10" spot="USM44" context="H,1,10,V44" playid="19,2,180" type="R" clock="07:08" tokens="RUSH:22,V45,MI TACK:28,96 T:07:08" text="(07:24) No Huddle-Shotgun Franklin, Jr.,Thad rush middle for 1 yard loss to the USM45 (Bozeman,Swayze; Williams,Jalen)." newcontext="H,2,11,V45">
+        <p_ru vh="H" name="Franklin, Jr.,Thad" gain="-1" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="N" tfl="Y" ff="N" assist="Y" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="Y" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="2" togo="11" spot="USM45" context="H,2,11,V45" playid="19,3,181" type="P" clock="06:26" tokens="PASS:9,C,83,V36,LE TACK:5D T:06:26" text="(06:45) No Huddle-Shotgun Van Dyke,Tyler pass complete short left to Redding III,Michael for 9 yards to the USM36 (Jones,Jay)." newcontext="H,3,2,V36">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="COMP" rcv="Redding III,Michael" gain="9" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="2" spot="USM36" context="H,3,2,V36" playid="19,4,182" type="R" first="P" clock="05:58" tokens="RUSH:21,V32,MI TACK:28,96 T:05:58" text="(06:11) No Huddle-Shotgun Parrish Jr.,Henry rush middle for 4 yards gain to the USM32 (Bozeman,Swayze; Williams,Jalen), 1ST DOWN." newcontext="H,1,10,V32">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="4" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="V" name="Williams,Jalen" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM32" context="H,1,10,V32" playid="19,5,183" type="#" clock="05:58" tokens="TOUT:H T:05:58" text="Timeout Miami (FL), clock 05:58." newcontext="H,1,10,V32">
+        <p_to vh="H" team="Miami (FL)" />
+      </play>
+      <play hasball="MIA" down="1" togo="10" spot="USM32" context="H,1,10,V32" playid="19,6,184" type="R" clock="05:21" tokens="RUSH:5,V26,RE TACK:5D T:05:21" text="(05:40) No Huddle-Shotgun Smith,Key'Shawn rush right for 6 yards gain to the USM26 (Jones,Jay)." newcontext="H,2,4,V26">
+        <p_ru vh="H" name="Smith,Key'Shawn" gain="6" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="4" spot="USM26" context="H,2,4,V26" playid="19,7,185" type="R" clock="04:49" tokens="RUSH:21,V26,RE TACK:5D T:04:49" text="(05:05) No Huddle-Shotgun Parrish Jr.,Henry rush right for 0 yards to the USM26 (Jones,Jay)." newcontext="H,3,4,V26">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="0" />
+        <p_tk vh="V" name="Jones,Jay" sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="4" spot="USM26" context="H,3,4,V26" playid="19,8,186" type="R" clock="04:01" tokens="RUSH:21,V30,RE TACK:31 T:04:01" text="(04:17) No Huddle-Shotgun Parrish Jr.,Henry rush right for 4 yards loss to the USM30 (Gill,Daylen)." newcontext="H,4,8,V30">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="-4" />
+        <p_tk vh="V" name="Gill,Daylen" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="4" togo="8" spot="USM30" context="H,4,8,V30" playid="19,9,187" type="F" score="Y" vscore="7" hscore="30" clock="03:34" tokens="FGA:30,48,G T:03:34" text="(03:37) Borregales,Andres field goal attempt from 48 yards GOOD (H: Hedley,Lou, LS: Napper,Mason), clock 03:34." newcontext="H,1,10,H35">
+        <p_fg vh="H" name="Borregales,Andres" distance="48" result="GOOD" score="Y" />
+      </play>
+      <score V="7" H="30" />
+      <drivesum plays="7" yards="14" top="03:50" driveindex="19" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA35" context="H,1,10,H35" playid="19,10,188" type="K" clock="03:34" tokens="KO:30,V10 RET:29,V25 TACK:1C,4K" text="Borregales,Andres kickoff 55 yards to the USM10 Harrell,Camron return 15 yards to the USM25 (Smith,Chase; Kinchens,Kamren)." newcontext="V,1,10,V25">
+        <p_ko vh="H" name="Borregales,Andres" gain="55" result="" />
+        <p_kr vh="V" name="Harrell,Camron" gain="15" />
+        <p_tk vh="H" name="Smith,Chase" sack="N" tfl="N" ff="N" assist="Y" />
+        <p_tk vh="H" name="Kinchens,Kamren" sack="N" tfl="N" ff="N" assist="Y" />
+      </play>
+      <drivestart vh="V" spot="V25" clock="03:34" driveIndex="20,189" poss="V,V25,03:34" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="20,1,189" type="#" clock="03:34" tokens="{DRIVE}:03:34" text="Southern Miss. drive start at 03:34." newcontext="V,1,10,V25" />
+      <play hasball="USM" down="1" togo="10" spot="USM25" context="V,1,10,V25" playid="20,2,190" type="R" clock="02:42" tokens="RUSH:TM,V24,MI TACK:3W T:02:42" text="No Huddle-Shotgun Southern Miss. rush for 1 yard loss to the USM24 (Williams,Chantz)." newcontext="V,2,11,V24">
+        <p_ru vh="V" gain="-1" />
+        <p_tk vh="H" name="Williams,Chantz" sack="N" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="2" togo="11" spot="USM24" context="V,2,11,V24" playid="20,3,191" type="P" clock="02:32" tokens="PASS:1Q,S,TM,V19 SACK:32, T:02:32" text="No Huddle-Shotgun Wilcke,Zach sacked for loss of 5 yards to the USM19 (Kelly,Nyjalik)." newcontext="V,3,16,V19">
+        <p_pa vh="V" qb="Wilcke,Zach" result="SACK" gain="-5" />
+        <p_tk vh="H" name="Kelly,Nyjalik" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="USM" down="3" togo="16" spot="USM19" context="V,3,16,V19" playid="20,4,192" type="P" clock="02:17" tokens="PASS:1Q,I,1,*,RE T:02:17" text="(02:19) No Huddle-Shotgun Wilcke,Zach pass incomplete short right to Brownlee,Jason." newcontext="V,4,16,V19">
+        <p_pa vh="V" qb="Wilcke,Zach" result="INC" rcv="Brownlee,Jason" />
+      </play>
+      <play hasball="USM" down="4" togo="16" spot="USM19" context="V,4,16,V19" playid="20,5,193" type="U" clock="02:09" tokens="PUNT:6P,H30 FC:7" text="(02:15) Hunt,Mason punt 51 yards to the MIA30 fair catch by Restrepo,Xavier at MIA30." newcontext="H,1,10,H30">
+        <p_pu vh="V" name="Hunt,Mason" gain="51" in20="N" tb="N" ob="N" />
+      </play>
+      <drivesum plays="3" yards="-6" top="01:25" driveindex="20" />
+      <drivestart vh="H" spot="H30" clock="02:09" driveIndex="21,194" poss="H,H30,02:09" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA30" context="H,1,10,H30" playid="21,1,194" type="#" clock="02:09" tokens="{DRIVE}:02:09" text="Miami (FL) drive start at 02:09." newcontext="H,1,10,H30" />
+      <play hasball="MIA" down="1" togo="10" spot="MIA30" context="H,1,10,H30" playid="21,2,195" type="P" clock="02:00" tokens="PASS:9,S,TM,H22 SACK:28, T:02:00" text="(02:09) No Huddle-Shotgun Van Dyke,Tyler sacked for loss of 8 yards to the MIA22 (Bozeman,Swayze)." newcontext="H,2,18,H22">
+        <p_pa vh="H" qb="Van Dyke,Tyler" result="SACK" gain="-8" />
+        <p_tk vh="V" name="Bozeman,Swayze" sack="Y" tfl="Y" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="18" spot="MIA22" context="H,2,18,H22" playid="21,3,196" type="P" clock="01:11" ob="Y" tokens="PASS:13,C,5,H33,RE OB: TACK:35 T:01:11" text="(01:21) No Huddle-Shotgun Garcia,Jake pass complete deep right to Smith,Key'Shawn for 11 yards to the MIA33 (Newsome,T.Q.), out of bounds." newcontext="H,3,7,H33">
+        <p_pa vh="H" qb="Garcia,Jake" result="COMP" rcv="Smith,Key'Shawn" gain="11" />
+        <p_tk vh="V" name="Newsome,T.Q." sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="3" togo="7" spot="MIA33" context="H,3,7,H33" playid="21,4,197" type="P" clock="00:51" tokens="PASS:13,C,12,H37,LE T:00:51" text="(01:07) No Huddle-Shotgun Garcia,Jake pass complete short left to Smith,Brashard for 4 yards to the MIA37, End Of Play." newcontext="H,4,3,H37">
+        <p_pa vh="H" qb="Garcia,Jake" result="COMP" rcv="Smith,Brashard" gain="4" />
+      </play>
+      <play hasball="MIA" down="4" togo="3" spot="MIA37" context="H,4,3,H37" playid="21,5,198" type="#" clock="00:20" tokens="TOUT:H T:00:20" text="Timeout Miami (FL), clock 00:20." newcontext="H,4,3,H37">
+        <p_to vh="H" team="Miami (FL)" />
+      </play>
+      <play hasball="MIA" down="4" togo="3" spot="MIA37" context="H,4,3,H37" playid="21,6,199" type="U" turnover="F" clock="00:11" tokens="PUNT:94,V22 +:0D,V24 FUMB:H,V24,4K" text="Hedley,Lou punt 41 yards to the USM22 Brooks,Natrone return 2 yards to the USM22 fumbled by Brooks,Natrone at USM22 recovered by MIA Kinchens,Kamren at USM24, End Of Play." newcontext="H,1,10,V24">
+        <p_pu vh="H" name="Hedley,Lou" gain="41" in20="N" tb="N" ob="N" />
+        <p_pr vh="V" name="Brooks,Natrone" gain="2" />
+        <p_fumb vh="V" name="Brooks,Natrone" at="V22" frvh="H" frname="Kinchens,Kamren" />
+      </play>
+      <drivesum plays="3" yards="7" top="01:58" driveindex="21" />
+      <drivestart vh="H" spot="V24" clock="00:11" driveIndex="22,200" poss="H,V24,00:11" />
+      <play hasball="MIA" down="1" togo="10" spot="USM24" context="H,1,10,V24" playid="22,1,200" type="#" clock="00:11" tokens="{DRIVE}:00:11" text="Miami (FL) drive start at 00:11." newcontext="H,1,10,V24" />
+      <play hasball="MIA" down="1" togo="10" spot="USM24" context="H,1,10,V24" playid="22,2,201" type="R" clock="00:00" tokens="RUSH:21,V17,RE TACK:35" text="(00:11) No Huddle-Shotgun Parrish Jr.,Henry rush right for 7 yards gain to the USM17 (Newsome,T.Q.)." newcontext="H,2,3,V17">
+        <p_ru vh="H" name="Parrish Jr.,Henry" gain="7" />
+        <p_tk vh="V" name="Newsome,T.Q." sack="N" tfl="N" ff="N" assist="N" />
+      </play>
+      <play hasball="MIA" down="2" togo="3" spot="USM17" context="H,2,3,V17" playid="22,3,202" type="#" clock="00:00" tokens="HALF: T:00:00" text="End of game, clock 00:00." newcontext="H,2,3,V17" />
+      <drivesum plays="1" yards="7" top="00:11" driveindex="22" />
+      <score V="7" H="30" final="Y" />
+      <endqtr />
+      <qtrsummary vh="H" id="MIA">
+        <firstdowns no="4" rush="4" pass="0" penalty="0" />
+        <penalties no="3" yds="25" />
+        <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="11:29" ptsto="3" />
+        <redzone att="1" scores="1" points="3" tdrush="0" tdpass="0" fgmade="1" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="16" yds="54" gain="67" loss="13" td="0" long="10" />
+        <pass comp="4" att="5" int="0" yds="38" td="0" long="14" sacks="1" sackyds="8" />
+        <rcv no="4" yds="38" td="0" long="14" />
+        <punt no="1" yds="41" long="41" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="41" />
+        <ko no="2" yds="120" ob="0" tb="1" fcyds="0" />
+        <fg made="2" att="2" long="48" blkd="0" />
+        <pat kickatt="0" kickmade="0" />
+        <defense tackua="5" tacka="2" tot_tack="7" tflua="3" tfla="0" tflyds="11" sacks="1" sackyds="5" ff="1" fr="2" fryds="0" brup="2" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+        <kr no="0" yds="0" td="0" long="0" />
+        <pr no="0" yds="0" td="0" long="0" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="1" yds="0" td="0" long="0" />
+        <fumbles no="0" lost="0" />
+        <scoring fg="2" td="0" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+      <qtrsummary vh="V" id="USM">
+        <firstdowns no="1" rush="0" pass="1" penalty="0" />
+        <penalties no="1" yds="10" />
+        <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0" />
+        <misc yds="0" top="03:31" />
+        <redzone att="0" scores="0" points="0" tdrush="0" tdpass="0" fgmade="0" endfga="0" enddowns="0" endint="0" endfumb="0" endhalf="0" endgame="0" />
+        <rush att="5" yds="2" gain="13" loss="11" td="0" long="9" />
+        <pass comp="1" att="5" int="0" yds="16" td="0" long="16" sacks="1" sackyds="5" />
+        <rcv no="1" yds="16" td="0" long="16" />
+        <punt no="2" yds="97" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="0" avg="48.5" />
+        <ko no="0" yds="0" ob="0" tb="0" fcyds="0" />
+        <fg made="0" att="0" long="0" blkd="0" />
+        <pat kickatt="0" kickmade="0" />
+        <defense tackua="12" tacka="8" tot_tack="20" tflua="2" tfla="2" tflyds="13" sacks="1" sackyds="8" ff="0" fr="0" fryds="0" brup="1" int="0" intyds="0" qbh="0" blkd="0" saf="0" sacka="0" sackua="1" />
+        <kr no="1" yds="15" td="0" long="15" />
+        <pr no="1" yds="2" td="0" long="2" />
+        <ir no="0" yds="0" td="0" long="0" />
+        <fr no="0" yds="0" td="0" long="0" />
+        <fumbles no="2" lost="2" />
+        <scoring fg="0" td="0" patkick="0" patrush="0" patrcv="0" saf="0" patretkick="0" patretfumb="0" />
+      </qtrsummary>
+    </qtr>
+    <downtogo hasball="H" id="MIA" down="2" togo="3" spot="USM17" context="H,2,3,V17" qtr="4" clock="00:00" vtoh="1" htoh="2" lastplay="(00:11) No Huddle-Shotgun Parrish Jr.,Henry rush right for 7 yards gain to the USM17 (Newsome,T.Q.)" />
+  </plays>
+  <dnp vh="H" id="MIA">
+    <player uni="2" code="2" name="Chaney, Jr.,Donald" checkname="CHANEY, JR.,DONALD" gp="0" class="JUNIOR" />
+    <player uni="5" code="5D" name="Porter Jr.,Daryl" checkname="PORTER JR.,DARYL" gp="0" class="SOPHOMORE" />
+    <player uni="6" code="6T" name="Citizen,TreVonte'" checkname="CITIZEN,TREVONTE'" gp="0" class="FRESHMAN" />
+    <player uni="11" code="1B" name="Brown,Jacurri" checkname="BROWN,JACURRI" gp="0" class="FRESHMAN" />
+    <player uni="15" code="15" name="George,Jacolby" checkname="GEORGE,JACOLBY" gp="0" class="SOPHOMORE" />
+    <player uni="16" code="6H" name="Horton,Isaiah" checkname="HORTON,ISAIAH" gp="0" class="FRESHMAN" />
+    <player uni="16" code="6M" name="Martin,Bryson" checkname="MARTIN,BRYSON" gp="0" class="FRESHMAN" />
+    <player uni="17" code="17" name="Matocha,Peyton" checkname="MATOCHA,PEYTON" gp="0" class="JUNIOR" />
+    <player uni="18" code="18" name="Brantley,Kahlil" checkname="BRANTLEY,KAHLIL" gp="0" class="SOPHOMORE" />
+    <player uni="18" code="8W" name="Williams,Markeith" checkname="WILLIAMS,MARKEITH" gp="0" class="FRESHMAN" />
+    <player uni="19" code="9G" name="George,Jayden" checkname="GEORGE,JAYDEN" gp="0" class="SOPHOMORE" />
+    <player uni="19" code="19" name="Harris,Jaden" checkname="HARRIS,JADEN" gp="0" class="FRESHMAN" />
+    <player uni="20" code="20" name="Harrell,Jalen" checkname="HARRELL,JALEN" gp="0" class="JUNIOR" />
+    <player uni="20" code="0T" name="Walden,Terrell" checkname="WALDEN,TERRELL" gp="0" class="FRESHMAN" />
+    <player uni="21" code="1R" name="Rogers,Khamauri" checkname="ROGERS,KHAMAURI" gp="0" class="FRESHMAN" />
+    <player uni="22" code="2G" name="Graves, Jr.,Chris" checkname="GRAVES, JR.,CHRIS" gp="0" class="FRESHMAN" />
+    <player uni="23" code="23" name="Skinner,Jaleel" checkname="SKINNER,JALEEL" gp="0" class="FRESHMAN" />
+    <player uni="24" code="4L" name="Stanley,Lucious" checkname="STANLEY,LUCIOUS" gp="0" class="SENIOR" />
+    <player uni="25" code="25" name="Washington,Keshawn" checkname="WASHINGTON,KESHAWN" gp="0" class="JUNIOR" />
+    <player uni="29" code="29" name="Dunson,Isaiah" checkname="DUNSON,ISAIAH" gp="0" class="JUNIOR" />
+    <player uni="30" code="0P" name="Peraino,Mike" checkname="PERAINO,MIKE" gp="0" class="FRESHMAN" />
+    <player uni="33" code="33" name="Gullickson,Wade" checkname="GULLICKSON,WADE" gp="0" class="FRESHMAN" />
+    <player uni="34" code="34" name="Ragone,Ryan" checkname="RAGONE,RYAN" gp="0" class="SENIOR" />
+    <player uni="35" code="35" name="Suarez,Michael" checkname="SUAREZ,MICHAEL" gp="0" class="FRESHMAN" />
+    <player uni="35" code="5M" name="Murillo,Josh" checkname="MURILLO,JOSH" gp="0" class="SOPHOMORE" />
+    <player uni="36" code="0G" name="Gutierrez,Luis" checkname="GUTIERREZ,LUIS" gp="0" class="JUNIOR" />
+    <player uni="37" code="37" name="Houvardas,Emmanuel" checkname="HOUVARDAS,EMMANUEL" gp="0" class="FRESHMAN" />
+    <player uni="38" code="38" name="Mooyoung,Myles" checkname="MOOYOUNG,MYLES" gp="0" class="FRESHMAN" />
+    <player uni="39" code="39" name="Moss,Cyrus" checkname="MOSS,CYRUS" gp="0" class="FRESHMAN" />
+    <player uni="41" code="41" name="Parrott,Seth" checkname="PARROTT,SETH" gp="0" class="FRESHMAN" />
+    <player uni="43" code="43" name="Cashwell,Isaiah" checkname="CASHWELL,ISAIAH" gp="0" class="JUNIOR" />
+    <player uni="43" code="3B" name="Bangoura,Souleymane" checkname="BANGOURA,SOULEYMANE" gp="0" class="SOPHOMORE" />
+    <player uni="44" code="4Y" name="Sampson,Syncere" checkname="SAMPSON,SYNCERE" gp="0" class="FRESHMAN" />
+    <player uni="46" code="46" name="Perry,Devon" checkname="PERRY,DEVON" gp="0" class="SENIOR" />
+    <player uni="46" code="6K" name="Kelly,Nick" checkname="KELLY,NICK" gp="0" class="FRESHMAN" />
+    <player uni="47" code="47" name="Levine,Bryan" checkname="LEVINE,BRYAN" gp="0" class="JUNIOR" />
+    <player uni="47" code="7R" name="Robertson,Bryson" checkname="ROBERTSON,BRYSON" gp="0" class="FRESHMAN" />
+    <player uni="48" code="8H" name="Hoffman,Jake" checkname="HOFFMAN,JAKE" gp="0" class="JUNIOR" />
+    <player uni="48" code="48" name="Prosek,Robbie" checkname="PROSEK,ROBBIE" gp="0" class="JUNIOR" />
+    <player uni="49" code="9B" name="Yayi-Bondje,John" checkname="YAYI-BONDJE,JOHN" gp="0" class="SOPHOMORE" />
+    <player uni="50" code="50" name="Seymore,Laurance" checkname="SEYMORE,LAURANCE" gp="0" class="SOPHOMORE" />
+    <player uni="50" code="0S" name="Saint Fleur,Andrew" checkname="SAINT FLEUR,ANDREW" gp="0" class="FRESHMAN" />
+    <player uni="53" code="3P" name="Peterson,Lucas" checkname="PETERSON,LUCAS" gp="0" class="FRESHMAN" />
+    <player uni="57" code="57" name="Antezana,Matt" checkname="ANTEZANA,MATT" gp="0" class="FRESHMAN" />
+    <player uni="59" code="59" name="Landers,Gabe" checkname="LANDERS,GABE" gp="0" class="FRESHMAN" />
+    <player uni="60" code="60" name="Nelson,Zion" checkname="NELSON,ZION" gp="0" class="SENIOR" />
+    <player uni="66" code="66" name="Traore,Ousman" checkname="TRAORE,OUSMAN" gp="0" class="SENIOR" />
+    <player uni="68" code="68" name="Johnson,Ian" checkname="JOHNSON,IAN" gp="0" class="FRESHMAN" />
+    <player uni="69" code="69" name="Brown,Johnnie" checkname="BROWN,JOHNNIE" gp="0" class="FRESHMAN" />
+    <player uni="69" code="81" name="Cox,Zaire" checkname="COX,ZAIRE" gp="0" class="FRESHMAN" />
+    <player uni="69" code="9S" name="Scheuerman,Trent" checkname="SCHEUERMAN,TRENT" gp="0" class="FRESHMAN" />
+    <player uni="71" code="71" name="Griffith,Jared" checkname="GRIFFITH,JARED" gp="0" class="SENIOR" />
+    <player uni="76" code="76" name="Rodriguez,Ryan" checkname="RODRIGUEZ,RYAN" gp="0" class="SOPHOMORE" />
+    <player uni="77" code="77" name="Sagapolu,Logan" checkname="SAGAPOLU,LOGAN" gp="0" class="SOPHOMORE" />
+    <player uni="78" code="78" name="McCoy,Matthew" checkname="MCCOY,MATTHEW" gp="0" class="FRESHMAN" />
+    <player uni="79" code="79" name="McLaughlin,Michael" checkname="MCLAUGHLIN,MICHAEL" gp="0" class="SOPHOMORE" />
+    <player uni="84" code="84" name="Neely,Josh" checkname="NEELY,JOSH" gp="0" class="FRESHMAN" />
+    <player uni="85" code="5P" name="Przytula,Sebastian" checkname="PRZYTULA,SEBASTIAN" gp="0" class="JUNIOR" />
+    <player uni="86" code="6P" name="Potter,Fred" checkname="POTTER,FRED" gp="0" class="JUNIOR" />
+    <player uni="88" code="88" name="Young,Colbie" checkname="YOUNG,COLBIE" gp="0" class="SOPHOMORE" />
+    <player uni="90" code="90" name="Mesidor,Akheem" checkname="MESIDOR,AKHEEM" gp="0" class="JUNIOR" />
+    <player uni="92" code="92" name="Moten,Ahmad" checkname="MOTEN,AHMAD" gp="0" class="FRESHMAN" />
+    <player uni="92" code="2W" name="Weldon,Trevor" checkname="WELDON,TREVOR" gp="0" class="FRESHMAN" />
+    <player uni="93" code="93" name="Ishmael,Jabari" checkname="ISHMAEL,JABARI" gp="0" class="SOPHOMORE" />
+    <player uni="95" code="95" name="Davis,Thomas" checkname="DAVIS,THOMAS" gp="0" class="SOPHOMORE" />
+    <player uni="97" code="97" name="Haye, Jr.,Allan" checkname="HAYE, JR.,ALLAN" gp="0" class="SOPHOMORE" />
+    <player uni="97" code="7H" name="Hutchinson,Will" checkname="HUTCHINSON,WILL" gp="0" class="FRESHMAN" />
+  </dnp>
+  <dnp vh="V" id="USM">
+    <player uni="5" code="5" name="Keyes,Ty" checkname="KEYES,TY" gp="0" class="FRESHMAN" />
+    <player uni="6" code="6" name="Richard,Dajon" checkname="RICHARD,DAJON" gp="0" class="SOPHOMORE" />
+    <player uni="8" code="8" name="Lowe III,Trey" checkname="LOWE III,TREY" gp="0" class="JUNIOR" />
+    <player uni="9" code="9" name="Webb,Tee" checkname="WEBB,TEE" gp="0" class="FRESHMAN" />
+    <player uni="11" code="1S" name="Robinson,Jeremiah" checkname="ROBINSON,JEREMIAH" gp="0" class="SOPHOMORE" />
+    <player uni="13" code="3B" name="McLaurin,Markel" checkname="MCLAURIN,MARKEL" gp="0" class="JUNIOR" />
+    <player uni="14" code="4Q" name="McCormick,Kyle" checkname="MCCORMICK,KYLE" gp="0" class="FRESHMAN" />
+    <player uni="16" code="16" name="Hayes,Brandon" checkname="HAYES,BRANDON" gp="0" class="FRESHMAN" />
+    <player uni="18" code="18" name="Tannehill,Jack" checkname="TANNEHILL,JACK" gp="0" class="FRESHMAN" />
+    <player uni="19" code="19" name="Gregory,Arian" checkname="GREGORY,ARIAN" gp="0" class="FRESHMAN" />
+    <player uni="19" code="9Q" name="Allison,Dustin" checkname="ALLISON,DUSTIN" gp="0" class="SOPHOMORE" />
+    <player uni="20" code="20" name="Clay,Kenyon" checkname="CLAY,KENYON" gp="0" class="FRESHMAN" />
+    <player uni="20" code="2S" name="Knox,Cameron" checkname="KNOX,CAMERON" gp="0" class="FRESHMAN" />
+    <player uni="21" code="2W" name="Mims,Tiaquelin" checkname="MIMS,TIAQUELIN" gp="0" class="FRESHMAN" />
+    <player uni="23" code="23" name="Baker,Dee" checkname="BAKER,DEE" gp="0" class="SOPHOMORE" />
+    <player uni="24" code="2Q" name="Lange,Jake" checkname="LANGE,JAKE" gp="0" class="SOPHOMORE" />
+    <player uni="25" code="25" name="Diaz,Zahn" checkname="DIAZ,ZAHN" gp="0" class="FRESHMAN" />
+    <player uni="25" code="5S" name="Martin,Jordan" checkname="MARTIN,JORDAN" gp="0" class="FRESHMAN" />
+    <player uni="26" code="26" name="Haywood,Jimmie" checkname="HAYWOOD,JIMMIE" gp="0" class="SOPHOMORE" />
+    <player uni="26" code="6B" name="Hampton,Jay" checkname="HAMPTON,JAY" gp="0" class="FRESHMAN" />
+    <player uni="27" code="27" name="Horton,Drew" checkname="HORTON,DREW" gp="0" class="SOPHOMORE" />
+    <player uni="30" code="30" name="Bonds,Carter" checkname="BONDS,CARTER" gp="0" class="SOPHOMORE" />
+    <player uni="30" code="3K" name="Lofton,Bryce" checkname="LOFTON,BRYCE" gp="0" class="SOPHOMORE" />
+    <player uni="32" code="32" name="Maples,Hayes" checkname="MAPLES,HAYES" gp="0" class="JUNIOR" />
+    <player uni="34" code="34" name="Wilbourn,Mario" checkname="WILBOURN,MARIO" gp="0" class="FRESHMAN" />
+    <player uni="38" code="38" name="Alemayehu,Jeremiah" checkname="ALEMAYEHU,JEREMIAH" gp="0" class="FRESHMAN" />
+    <player uni="39" code="39" name="Puckett,Hayes" checkname="PUCKETT,HAYES" gp="0" class="FRESHMAN" />
+    <player uni="41" code="41" name="Hebert,Trey" checkname="HEBERT,TREY" gp="0" class="FRESHMAN" />
+    <player uni="42" code="42" name="White,Avery" checkname="WHITE,AVERY" gp="0" class="SOPHOMORE" />
+    <player uni="43" code="43" name="Rea,Peyton" checkname="REA,PEYTON" gp="0" class="SOPHOMORE" />
+    <player uni="47" code="47" name="Jefcoat,Michael" checkname="JEFCOAT,MICHAEL" gp="0" class="FRESHMAN" />
+    <player uni="49" code="49" name="Garner,Caleb" checkname="GARNER,CALEB" gp="0" class="FRESHMAN" />
+    <player uni="50" code="50" name="Saxton,Wil" checkname="SAXTON,WIL" gp="0" class="FRESHMAN" />
+    <player uni="51" code="5L" name="Roland,Demeco" checkname="ROLAND,DEMECO" gp="0" class="JUNIOR" />
+    <player uni="52" code="52" name="Bumgarner,Ethan" checkname="BUMGARNER,ETHAN" gp="0" class="SOPHOMORE" />
+    <player uni="54" code="54" name="Hatten,Tanner" checkname="HATTEN,TANNER" gp="0" class="SOPHOMORE" />
+    <player uni="56" code="6L" name="Burgess,DJ" checkname="BURGESS,DJ" gp="0" class="FRESHMAN" />
+    <player uni="57" code="57" name="Pollard,Klabron" checkname="POLLARD,KLABRON" gp="0" class="FRESHMAN" />
+    <player uni="58" code="58" name="Lawson,Drew" checkname="LAWSON,DREW" gp="0" class="FRESHMAN" />
+    <player uni="62" code="62" name="Roberson,Seth" checkname="ROBERSON,SETH" gp="0" class="SOPHOMORE" />
+    <player uni="66" code="66" name="Barnes,Kamron" checkname="BARNES,KAMRON" gp="0" class="FRESHMAN" />
+    <player uni="67" code="67" name="Brewer,Drew" checkname="BREWER,DREW" gp="0" class="FRESHMAN" />
+    <player uni="70" code="70" name="Middleton,James" checkname="MIDDLETON,JAMES" gp="0" class="JUNIOR" />
+    <player uni="73" code="73" name="Gearity,Douglas" checkname="GEARITY,DOUGLAS" gp="0" class="JUNIOR" />
+    <player uni="74" code="74" name="King,Kameron" checkname="KING,KAMERON" gp="0" class="JUNIOR" />
+    <player uni="75" code="75" name="McKinion,Peyton" checkname="MCKINION,PEYTON" gp="0" class="FRESHMAN" />
+    <player uni="78" code="78" name="McMillian,Calvin" checkname="MCMILLIAN,CALVIN" gp="0" class="FRESHMAN" />
+    <player uni="81" code="81" name="Dalton,Davis" checkname="DALTON,DAVIS" gp="0" class="FRESHMAN" />
+    <player uni="82" code="82" name="May,Jalen" checkname="MAY,JALEN" gp="0" class="SOPHOMORE" />
+    <player uni="83" code="83" name="Jackson,Jack" checkname="JACKSON,JACK" gp="0" class="FRESHMAN" />
+    <player uni="84" code="84" name="Sellers,Mitchell" checkname="SELLERS,MITCHELL" gp="0" class="FRESHMAN" />
+    <player uni="86" code="86" name="Sheperd,Cade" checkname="SHEPERD,CADE" gp="0" class="SOPHOMORE" />
+    <player uni="89" code="89" name="McNally,Evan" checkname="MCNALLY,EVAN" gp="0" class="FRESHMAN" />
+    <player uni="91" code="91" name="Carter,Kyler" checkname="CARTER,KYLER" gp="0" class="FRESHMAN" />
+    <player uni="92" code="92" name="White,Trace" checkname="WHITE,TRACE" gp="0" class="SOPHOMORE" />
+    <player uni="98" code="9K" name="Stein,Andrew" checkname="STEIN,ANDREW" gp="0" class="SOPHOMORE" />
+    <player uni="98" code="98" name="Fuavai,Iliyas" checkname="FUAVAI,ILIYAS" gp="0" class="FRESHMAN" />
+  </dnp>
+  <longplays threshold="70" />
+</fbgame>
